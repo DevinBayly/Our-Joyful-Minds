@@ -1,0 +1,31 @@
+Alexis Blue:
+  email: null
+  notes:
+    - How disappointing    
+    -
+Arizona Daily Star:
+  email: null
+  notes: []
+RPI students:
+  email: null
+  notes: []
+Tucson Weekly:
+  email: null
+  notes: []
+University Communications:
+  email: null
+  notes: []
+Vicki Lai:
+  email: null
+  notes: []
+contacts:
+  - washington post
+  - RPI students
+  - Arizona Daily Star
+  - Tucson Weekly
+  - Vicki Lai
+  - Alexis Blue
+  - University Communications
+washington post:
+  email: null
+  notes: []

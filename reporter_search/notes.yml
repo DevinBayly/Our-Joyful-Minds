@@ -3,7 +3,8 @@ Alexis Blue:
   email: aeblue@arizona.edu
   notes:
   - 'I guess I don''''t actually need to have things on separate lines https://marcomm.arizona.edu/person/alexis-blue
-    she covers psychology and is the editor of the UANow weekly newsletter. '
+    she covers psychology and is the editor of the UANow weekly newsletter.
+    sent off a draft of this to grandpa also '
   recipient_name: Ms. Blue
 Arizona Daily Star:
   appeal_hook: null
@@ -12,23 +13,35 @@ Arizona Daily Star:
   recipient_name: null
 RPI students:
   appeal_hook: null
-  email: null
-  notes: []
+  email: leads@poly.rpi.edu
+  notes: > 
+    submission process instead https://poly.rpi.edu/submit/
+    going to submit email request to lead corespondence
+    must mention
+      grandson of rpi faculty Brian Bayly
+      degree in related subjects
+      previous article in similar student newspaper
+    sent off draft to grandpa
   recipient_name: null
 Tucson Weekly:
   appeal_hook: null
   email: null
-  notes: []
+  notes: null
   recipient_name: null
 University Communications:
   appeal_hook: null
   email: null
-  notes: []
+  notes: >
+    Similar to Alexis Blue,
+    Probably don't need to send separate email
   recipient_name: null
-Vicki Lai:
+Vicky Lai:
   appeal_hook: null
   email: null
-  notes: []
+  notes: >
+    different category
+    researcher, doesn't have ability to help circulate idea,
+    goal would be if she see's article after the fact and can help to use her research to validate/invalidate aspects
   recipient_name: null
 contacts:
 - washington post
@@ -53,3 +66,7 @@ washington post:
   email: null
   notes: []
   recipient_name: null
+next steps: >
+  proceed with email for the tucson weekly
+  think of a way to create an email to send to Vicky, 
+  ask grandpa about what he thinks is the best bet for talking with her. 

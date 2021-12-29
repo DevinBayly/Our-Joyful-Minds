@@ -1,24 +1,35 @@
 Alexis Blue:
+  appeal_hook: null
   email: aeblue@arizona.edu
   notes:
   - 'I guess I don''''t actually need to have things on separate lines https://marcomm.arizona.edu/person/alexis-blue
-    she covers psychology and is the editor of the UANow weekly newsletter.
-    '
+    she covers psychology and is the editor of the UANow weekly newsletter. '
+  recipient_name: Ms. Blue
 Arizona Daily Star:
+  appeal_hook: null
   email: null
   notes: []
+  recipient_name: null
 RPI students:
+  appeal_hook: null
   email: null
   notes: []
+  recipient_name: null
 Tucson Weekly:
+  appeal_hook: null
   email: null
   notes: []
+  recipient_name: null
 University Communications:
+  appeal_hook: null
   email: null
   notes: []
+  recipient_name: null
 Vicki Lai:
+  appeal_hook: null
   email: null
   notes: []
+  recipient_name: null
 contacts:
 - washington post
 - RPI students
@@ -28,12 +39,17 @@ contacts:
 - Alexis Blue
 - University Communications
 email versions:
-  draft_request.md:
+  draft_request.txt:
     info: This was getting sent to Tom Beal and I'm planning on using it as the baseline
       for other things that get sent around because grandpa is happy with the draft.
       It's unclear whether it is the same one as the version I sent to Mikayla Mace.
-    recipients:
-      Alexis
+      Looks like it
+    recipients: Alexis Blue
+  mikayla_mace_version.txt:
+    info: This was intended to get the article into the arizona daily star but should
+      probably have been about getting a publication for the U of a
 washington post:
+  appeal_hook: null
   email: null
   notes: []
+  recipient_name: null

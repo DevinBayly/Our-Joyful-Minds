@@ -1,0 +1,36 @@
+Alexis Blue:
+  email: aeblue@arizona.edu
+  notes:
+    - I guess I don't actually need to have things on separate lines
+    https://marcomm.arizona.edu/person/alexis-blue
+    she covers psychology and is the editor of the UANow weekly newsletter. 
+
+Arizona Daily Star:
+  email: null
+  notes: []
+RPI students:
+  email: null
+  notes: []
+Tucson Weekly:
+  email: null
+  notes: []
+University Communications:
+  email: null
+  notes: []
+Vicki Lai:
+  email: null
+  notes: []
+contacts:
+  - washington post
+  - RPI students
+  - Arizona Daily Star
+  - Tucson Weekly
+  - Vicki Lai
+  - Alexis Blue
+  - University Communications
+washington post:
+  email: null
+  notes: []
+email versions:
+  draft_request.md:
+    info: This was getting sent to Tom Beal and I'm planning on using it as the baseline for other things that get sent around because grandpa is happy with the draft. It's unclear whether it is the same one as the version I sent to Mikayla Mace.

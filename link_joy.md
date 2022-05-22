@@ -374,19 +374,14 @@ Now here's a real puzzle, the hold that reading has on a person's mind. Life has
 
 (The sweet-spot sensation is described on Twig 21 and pleasure from reading on Twig 7 in the Introduction.) 
 
-## Chapter 1 
+## Chapter 1 Does this matter to ME? 
 
-Does this matter to ME? 
-
-Link-joy isn't everything!
-
-Not everyone is the same!
-
-Other people are people too!
-
-A note on religion Novelty Hopes and intentions 
-
-Quality time Postscript on choice of words 
+* Link-joy isn't everything!
+* Not everyone is the same!
+* Other people are people too!
+* A note on religion Novelty Hopes and intentions 
+* Quality time
+* Postscript on choice of words 
 
 In the middle of a holiday morning, Marza and Anju were having a coffee break. Anju said, “Hey, this coffee is good! It is far nicer than the coffee I made at breakfast. It is strange, isn't it, how much it varies from one time to another?” 
 
@@ -538,13 +533,8 @@ The milder term "satisfaction” should not be ignored, and certainly after a se
 
 But without doubt “link-joy” has the advantage of being short, and the term recurs so many times that to be short is a merit. I hope the reader will tolerate the term for that reason and join me in stretching it from the large to the very small. When you recognize a word on this page, to say that you feel joy is almost absurd --- micro-joy or hardly perceptible joy comes closer. But we need a single short word for a range of experiences, so please accept joy in this expanded sense. 
 
-LV 
 
-or a 
-
-Our Joyful Minds 
-
-Anecdote: Willa Cather and Alfred de Musset 
+## Anecdote: Willa Cather and Alfred de Musset 
 
 Two journeys by Willa Cather stick in my mind. Quite early in her career she traveled from Nebraska to Chicago. She visited the Art Museum and wrote of the experience, including two separate remarks. On one page, she records that a certain painting filled her with pleasure; on a different page she records that a certain painting seemed to touch something within herself (as with Goethe; see Twig 13 in the Introduction). 
 
@@ -552,95 +542,63 @@ A little later she visited Paris and the famous cemetery of Pere la Chaise. She 
 
 Do you see, she knows that people like de Musset get pleasure from a match. And she knows that some paintings match a feeling in herself, and that some paintings bring her joy. But she never says that a painting brought her joy because it linked to something within herself. Was she aware of the three-way set-up and simply never mentioned it (except in regard to de Musset)? How did she come so close, yet never note the effect in herself? 
 
-Chapter 2 
+## Chapter 2 How does this fit with mainstream cognitive science? 
 
-How does this fit with mainstream cognitive 
+* Generalists
 
-science? 
+* Inward and outward signals
 
-Generalists Inward and outward signals Summary 
+* Summary 
 
 An earlier section, in the Introduction, listed precursors of the idea Tam putting forward, not many in number. By contrast, here I look (amazed) at the vast number of people who have written about brains without mentioning this idea. But I will comment on only two groups: first, well-known generalists; second, Erich Harth, Jeff Hawkins and Joaquin Fuster --- bound together by a common interest in the meeting of inward signals and outward signals in the brain. The topic of consciousness has recently been fashionable and has produced a spate of writing but this is mostly not quite relevant; for reasons, see Chapter 5. 
 
-Generalists 
+### Generalists 
 
 Interested readers have had the pleasure of a steady flow of great books. Although it was not the first, let's start with The Astonishing Hypothesis by Francis Crick, published in 1994. The hypothesis is that the brain is a mechanism worked by chemicals and electrically charged particles that we can understand by looking and thinking; a person can use his brain to inspect his brain. Somewhere here one gets trapped in an endless progression: can one think about thoughts about thoughts...? But certainly one's whole brain can inspect the workings of some parts of the brain; one of my sons studies brains and is sometimes his own test-animal. And Crick's hypothesis is that in principle the job will mostly get done; we will eventually be able to explain much of how we think and feel. Well, most writers agree that that day is still far off, but progress is being made and there are many astute commentators on the state of play. Here are four that catch the eye: 
 
 How does this fit with mainstream cognitive science! 
 
 Antonio Damasio 
+* *Looking for Spinoza* 2003 
 
-Looking for Spinoza 
+* *The Feeling of What Happens* 2000 
 
-2003 
-
-The Feeling of What Happens 
-
-2000 
-
-Descartes' Error 
-
-1994 
+* *Descartes' Error* 1994 
 
 William Calvin 
 
-A Brief History of the Mind 
-
-2004 
-
-How Brains Think 
-
-1996 
-
-Conversation with Neil's Brain 
-
-1995 
+* *A Brief History of the Mind* 2004 
+* *How Brains Think* 1996 
+* *Conversation with Neil's Brain* 1995 
 
 Steven Pinker 
 
-The Blank Slate 
-
-2003 
-
-How the Mind Works 
-
-1999 
+* *The Blank Slate* 2003 
+* *How the Mind Works* 1999 
 
 Melvin Konner 
 
-The Tangled Wing 
-
-2nd ed. 2002 
+* *The Tangled Wing 2nd ed.*  2002 
 
 Konner names 185 people in his Acknowledgments (is this a record?) and the other authors are also quite well connected. I recall a rhyme about Benjamin Jowert, an earlier specialist in how human beings work: 
 
-I live here and my name's Jowett; If it's knowledge then I know it. I am the Master of this college; What I don't know isn't knowledge. 
+I live here and my name's Jowett;
 
-Nowadays people's claims to omniscience are more limited but if Konner, Pinker, Calvin and Damasio were ever in the same room, they might claim about the brain's major principles that between them they had the field pretty well covered. (I am looking here at people who write for the general public, not the great expositors in the more technical literature.) 
+If it's knowledge then I know it.
 
-The upshot is that nothing in these fine overviews conflicts with what I am emphasizing --- they just don't mention it. For example, enjoying jokes gets mentioned in a few places and enjoying music gets 
+I am the Master of this college;
 
-14 
+What I don't know isn't knowledge. 
 
-Our Joyful Minds 
-
-exte 
-
-mentioned too, in other places. But the need for a mechanism to generate the pleasure and the possibility that a single mechanism underlies such a wealth of human motivations are not recognized. 
+Nowadays people's claims to omniscience are more limited but if Konner, Pinker, Calvin and Damasio were ever in the same room, they might claim about the brain's major principles that between them they had the field pretty well covered. (I am looking here at people who write for the general public, not the great expositors in the more technical literature.) The upshot is that nothing in these fine overviews conflicts with what I am emphasizing --- they just don't mention it. For example, enjoying jokes gets mentioned in a few places and enjoying music gets mentioned too, in other places. But the need for a mechanism to generate the pleasure and the possibility that a single mechanism underlies such a wealth of human motivations are not recognized. 
 
 Perhaps the closest that these books come to the link-joy proposal is with assertions such as “People are driven to seek patterns” or “Pattern seeking seems to be innate.” Here the word pattern is used because it can be extended beyond its narrow sense into music, rhyme, dancing, mathematics and so on. And to say that people are driven” is meant to suggest something that they do for internal rather than external reasons. Thus these assertions are groping toward the link-joy proposal, but only toward part of it. 
 
 One might expect more from The Brain and Emotion, a great synthesis by Edmund Rolls. But what has been studied is the effect of emotion on how the brain works, as when an excited person “doesn't think straight.” Events not covered are those when emotion is the consequence, not the cause, of brain activity --- as with the link-joy I describe here. Every human eye has a blind spot and people who study brains seem to have a blind spot too. The present proposal and these great overviews are perfectly compatible but they lie side by side without touching. 
 
-Inward and Outward Signals 
+### Inward and Outward Signals 
 
-Moving on, the books I refer to by Erich Harth and Jeff Hawkins are, respectively, The Creative Loop and On Intelligence (written with Sandra Blakeslee). Harth's subtitle is broad --- How the brain makes a mind - -- and Hawkins too has an ambitious sweep, but the key idea in both books is the same: our eyes, ears etc. generate signals that travel inward or upward, but the signals meet and interact with signals traveling downward or outward. To catch the process in slow motion, recall an occasion when you saw an object but could not tell at once what it was. For example, once I was sitting at a sidewalk table in a street with trees. An object caught my eye, something quite high among the branches of a tree across the street; was it a bird, a cat, a nest or something more accidental? Sometimes a hat gets stuck in a tree, having been thrown by the owner out of joy or by a prankster out of mischief, and sometimes even more surprising things. But the object I saw was rather small for a cat and rather large for a bird, yet it seemed to be resting rather than 
-
-15 
-
-How does this fit with mainstream cognitive science? 
-
-hanging --- I got no sense that it was hanging limply as a woolly hat might do. It was a puzzle: I could see pale and dark parts but for some time could not discern a head or tail or any definite feature. Eventually a small motion revealed a tail, and at once the whole puzzle resolved --- it was a small cat; its head was just drooping down in a way that made it hard to see. 
+Moving on, the books I refer to by Erich Harth and Jeff Hawkins are, respectively, The Creative Loop and On Intelligence (written with Sandra Blakeslee). Harth's subtitle is broad --- How the brain makes a mind - -- and Hawkins too has an ambitious sweep, but the key idea in both books is the same: our eyes, ears etc. generate signals that travel inward or upward, but the signals meet and interact with signals traveling downward or outward. To catch the process in slow motion, recall an occasion when you saw an object but could not tell at once what it was. For example, once I was sitting at a sidewalk table in a street with trees. An object caught my eye, something quite high among the branches of a tree across the street; was it a bird, a cat, a nest or something more accidental? Sometimes a hat gets stuck in a tree, having been thrown by the owner out of joy or by a prankster out of mischief, and sometimes even more surprising things. But the object I saw was rather small for a cat and rather large for a bird, yet it seemed to be resting rather than hanging --- I got no sense that it was hanging limply as a woolly hat might do. It was a puzzle: I could see pale and dark parts but for some time could not discern a head or tail or any definite feature. Eventually a small motion revealed a tail, and at once the whole puzzle resolved --- it was a small cat; its head was just drooping down in a way that made it hard to see. 
 
 Now consider: what process is going on during the period of uncertainty? One's brain is looking for a match. The first signals from the eye are ambiguous and start the brain thinking of possibilities. The brain thinks "Cat?” and sends outward some notions of what cats can look like; it also thinks "Har?" and sends out signals about hats. "Looking more closely” amounts to sending inward more specific information and sending outward more specific possibilities. Eventually inward and outward lock together: one realizes, “It's a cat; that pale patch is its ear.” 
 
@@ -648,71 +606,38 @@ A more famous example is summed up in the words almost everyone knows, “It's a
 
 Both Harth and Hawkins are fully familiar with computing and software. (The computing strategy "winner take all” refers to the moment when the situation clarifies, one idea beats the competition, and all other possibilities are totally thrown out. This process can be handily modeled on a computer.) By contrast Joaquin Fuster's specialization is wetware, a real brain. His lifelong study has been the composition and working of the cortex, that soft frontal and outer part that is most distinctive of humans. But beside knowing what the cortex is, Fuster has considered carefully what it does. At least since Socrates, people have been puzzling over that and here are Fuster's conclusions: 
 
-ma 
-
-Our Joyful Minds 
-
-“Perception is the classing of the world into categories. 
-
-and 
-
-The categorizing that forms the percept is essentially a matching act.... 
-
+“Perception is the classing of the world into categories.  and The categorizing that forms the percept is essentially a matching act.... " 
 These meaty assertions are worth unpacking. 
 
-“Perception is the classing of the world into categories.” When I looked across the street and was puzzled, I did not at first perceive a cat. But once I classed what I could see into the category cat" 1 perceived it clearly. Fuster might have written, “Perception is the classing of everything in one's field of view into categories --- house, tree, cat etc.” This would have led up to his more dramatic assertion. 
+*“Perception is the classing of the world into categories.”* When I looked across the street and was puzzled, I did not at first perceive a cat. But once I classed what I could see into the category cat" 1 perceived it clearly. Fuster might have written, “Perception is the classing of everything in one's field of view into categories --- house, tree, cat etc.” This would have led up to his more dramatic assertion. 
 
-“The categorizing that forms the percept is essentially a matching act.” The jump from a confused jumble to a clearly perceived cat depends on my having seen cats before. I possessed the general idea of a cat from prior experience and eventually matched the colored patches with that idea. Other people agree about the matching: "... our perception of an apple is not just based on the integration of shape and form ... but also on the integration of these features with information stored in memory ..." ---J. LeDoux. Or “... perception is the top-down interpretation of the world in the light of prior experience” ---E. G. Boring. But it was the onlooker John McCrone who noted the third element, “the physiological click that follows the matching” and “floods the brain with pleasurable feelings.” 
+*“The categorizing that forms the percept is essentially a matching act.”* The jump from a confused jumble to a clearly perceived cat depends on my having seen cats before. I possessed the general idea of a cat from prior experience and eventually matched the colored patches with that idea. Other people agree about the matching: "... our perception of an apple is not just based on the integration of shape and form ... but also on the integration of these features with information stored in memory ..." ---J. LeDoux. Or “... perception is the top-down interpretation of the world in the light of prior experience” ---E. G. Boring. But it was the onlooker John McCrone who noted the third element, “the physiological click that follows the matching” and “floods the brain with pleasurable feelings.” 
 
 The essential role of categories in language is discussed in Chapter 4. But they lead to more than language: “The categorization of human knowledge ... is the essence of all cognitive functions" --- that is Fuster again; only the italics are by me. 
 
-ter 
-
 It is amazing how many people have come so close to McCrone's point (and mine) without hitting it. Is it that scientists are cold and unemotional? Absolutely not. It is not that scientists are unemotional but when doing science they tend to filter emotions out or set them aside. The situation is changing; there is now a journal Cognition and Emotion, and someone else may make my point before this book gets into print. As a last example of how close orthodox neuroscience has already come, here is a line from a report on some recent experiments by Dr. Axel Mecklinger and associates: 
 
-17 
+“... suggesting that either an internal reward or an expectancy-confirmation mechanism accompanied correct ... judgments.” 
 
-
-
-How does this fit with mainstream cognitive science? 
-
-“... suggesting that either an internal reward or an expectancy-confirmation mechanism 
-
-accompanied correct ... judgments.” An "internal reward” means a moment of mental pleasure or joy. If they had written "... an internal reward arising from an expectancy confirmation mechanism ..." they would have been on the money. 
+An "internal reward” means a moment of mental pleasure or joy. If they had written "... an internal reward *arising from* an expectancy confirmation mechanism ..." they would have been on the money. 
 
 I certainly don't instantly read everything that is written and I have not got 185 associates helping to keep me up to date. Perhaps by now these remarks have been overtaken by events. 
 
-BOW 
-
-Summary 
+### Summary 
 
 I have seen nothing in recent neuroscience to conflict with the proposal in this book. Instead, the recent trend is for specialists' discoveries to come closer and closer to supporting the present conjecture. Who knows how soon the conjecture will appear in the orthodox neuroscience or cognitive-science journals, and what reception it will get when it does? 
 
-Our Joyful Minds 
-
-potrebe pond pas 
-
-Anecdote: Deire Gentner's tests 
-
-mo 
-
-nen 
+## Anecdote: Deire Gentner's tests 
 
 The fact that children enjoy making discoveries is sufficiently well known. To harp on their mini-Eureka moments would be rather banal. The following example is noteworthy only for the unusual context in which it occurred. 
 
 Professor Dedre Gentner at Northwestern University is respected and renowned in cognitive science. She and co-workers like to create programs that run on a computer but accomplish tasks like those performed by a human brain. For example, some years ago they created a Structure Mapping Engine (a computing engine, not a mechanical one). Part of this SME was a scanner to scan visible objects, and the engine was designed to report if two objects were similar. To learn how closely the performance of the SME resembled human performance, they designed a test-series that could be worked through by a child as well as by the machine. Their report ran to 50 pages with statistical analyses and numerical measures of how the machine and the children compared. At just one point a particular difference was reported: "... the child cried with delight, 'It's the same ...?" I put the italics. As far as I can tell, the two words got in among the statistics mostly by accident --- the authors give them no attention whatever. But to me, they seem crucial, they show the human motivation. Machines will never approach human behavior, that ceaseless random search for matchings wherever they may pop up, until machines are given some electronic equivalent of delight. 
 
-see 
+## Chapter 3 How might it work inside the brain? 
 
-VE 
-
-Chapter 3 
-
-How might it work inside the brain? 
-
-Structure of your brain How does thinking work? Summary 
-
-e ca 
+* Structure of your brain
+* How does thinking work?
+* Summary 
 
 “People get pleasure when two things in mind match." I have tried to show that the effect is widespread (see the set of 35 Instances in the Introduction), that it matters in anybody's everyday life, and that specialists in cognitive science may wake up to the effect any day. When they do, speculating about how it might work will be an obvious next step. But even before that, we can speculate and perhaps need to do so to satisfy the skeptical. 
 
@@ -720,47 +645,35 @@ The point where people may have doubts is where I propose unity. "Reading is ple
 
 Well, could there be unity? Could a single mechanism work for the small and the large? We had better look at a mechanism to throw light on that point. Several mechanisms would be better but they are not easy to find; the possibility described in this chapter is the only one I know. It is merely conjecture, but rests on some firm facts about one's brain. At this point I will mention only those brain-features that are needed for the story --- “Explanations should be made as simple as possible but not more simple than that" ---A. Einstein. Readers interested in some more research that bears on the subject might look at the third item in the References. 
 
-Structure of Your Brain 
+### Structure of Your Brain 
 
 First a story from the courtroom. A doctor was acting as expert witness for the defense but the prosecutor was giving him a difficult time: 
 
-How might it work inside the brain? 
+**Pr.** You stated that on June 30 at 6 p.m. Mr. Jones was definitely dead. Had you checked his pulse?
 
-Pr. You stated that on June 30 at 6 p.m. Mr. Jones was definitely 
+**Dr.** No, I had not.
 
-dead. Had you checked his pulse? Dr. No, I had not. Pr. Had you established the absence of heart-beat? Dr. No, I had not. Pr. Then tell us, doctor, what makes you so confident that Mr. 
+**Pr.** Had you established the absence of heart-beat? 
 
-Jones was dead? Dr. Well, I had his brain in alcohol in a jar on my desk. Pr. Hum! That is not a customary line of evidence. Are we to accept 
+**Dr.** No, I had not.
 
-it as incontrovertible proof that Mr. Jones was dead? Dr. Well, I suppose maybe not. Maybe he is now out in California 
+**Pr.** Then tell us, doctor, what makes you so confident that Mr.  Jones was dead? 
 
-or somewhere practicing as a lawyer. 
+**Dr.** Well, I had his brain in alcohol in a jar on my desk. 
+
+**Pr.** Hum! That is not a customary line of evidence. Are we to accept it as incontrovertible proof that Mr. Jones was dead? 
+
+**Dr.** Well, I suppose maybe not. Maybe he is now out in California or somewhere practicing as a lawyer. 
 
 The useful fact there is that a brain will fit into a jar --- a somewhat large jar, between a quart and a half-gallon size, 1.3 or 1.4 liters --- or of course it fits neatly into the top half of a skull. For a representation, find a bowl about the size of your cranium and line the bowl with a wer hand-towel, crumpling the towel to make it all fit in. Then fill the remaining space with soft fruit and things with some texture, such as mushroom stalks and boiled onions and garlic. If you can invert it while keeping it full, you have an adequate model of a brain, with the cortex (hand-towel) on the outside and a collection of sub-cortical units filling the interior (mostly in pairs, one on the left and one on the right). In a real brain there are enough fibers, skins and ligaments to hold all the parts together, and for us the important point is: our thoughts are carried out mostly in the cortex, with much less involvement of the sub-cortical parts; conversely, our feelings and instincts arise in the fruit and vegetables, with only slight involvement of the cortex. 
 
 The next task is to convey something of the brain's complexity. The cortex alone contains more than 10 billion neurons, and each neuron has hundreds of input fibers and hundreds more output fibers (see Figure 2). The output-fiber tips communicate by touching the input fibers of neighboring neurons (or sometimes neurons quite far off), so there are many routes by which an electrical disturbance can travel through the whole web or network. 
 
-22 
+**Figure 3 Components of a neuron, highly simplified.**
 
-Our Joyful Minds 
+The many output fibers of one neuron may have junctions onto hundreds of different neighboring neurons. 
 
-input fibers 
-
-cell body 
-
-output fibers 
-
-... 
-
-input fibers of another neuron 
-
-Figure 2 Components of a neuron, highly simplified. The many output fibers of one neuron may have junctions onto hundreds of 
-
-different neighboring neurons. 
-
-How might it work inside the brain? 
-
-How Does Thinking Work? 
+### How Does Thinking Work? 
 
 To the extent that such a web is like New York City or London or Tokyo, a thought is like the morning commute. Every workday morning, roughly the same pattern of activity occurs: thousands of agents travel their separate but coordinated paths, and the pattern repeats 20 times a month --- or, for a thought, a pattern of electrical pulses repeats itself perhaps 40 times a second. A difference is that in the brain many of the pulses are propagated around loops whereas commuting is mostly a one-way progression. But for the present purpose this does not matter; the image we need is of a pattern that is very complicated yet repeats itself almost exactly, time after time. 
 
@@ -770,27 +683,13 @@ An outstanding feature of the human brain is the number of things it can do at o
 
 Now for a moment let me turn to Christmas decorations and specifically to the strings of lights that people hang up --- they will provide an analogy. One might have two separate strings and a switch so that the two strings light up alternately. Even if they were hung from the same tree or windowsill the systems could be independent. 
 
-24 
-
-Our Joyful Minds 
-
-VC 
-
-wei 
-
 Alternatively, one might have two strings that were separate except that both used the same ten bulbs for their middle sections. Now turn on the alternator switch at two flips a second: in the first set-up, one string lights up in the first half-second, then the other lights up, and then back to the first; in chat set-up, each bulb lights up just once a second. But in the second set-up, the ten middle bulbs would light once as part of the first string and then again as part of the second string; they would light up twice as often as all the other bulbs. This is a useful analogy as we now go back to brains. 
 
 Okay, now suppose that I just saw someone leaving a coffee shop and think, “Hey, that was --- what's her name?" One part of my mind is running the recollection of the face and various ideas connected with the face, a pattern of activity like the New Jersey commute. Then in a second part of my mind I think of the name of a distant acquaintance. But in fact it is the wrong name --- so it is like the White Plains commute, wholly unrelated to the first. When I try to put the name with the face, it takes me, say, 25 milliseconds to give attention to the face and then 25 milliseconds to give attention to the name; then back to the face and re-run the pair of tho I give that up, try a new name and, this time, hit upon the correct one, the result is different. I attend to the face and ideas connected with the face; then I attend to the name and ideas connected with the name, and some of these ideas are the same both times. If I jump from face to name and back to face every 50 milliseconds, these particular ideas come up twice, that is, every 25 milliseconds. At the moment when I hit on the correct name, some parts of my brain start performing at twice the usual frequency (like the ten bulbs that are part of both strings). 
 
 If something like this occurred in a real human brain, the jump to a higher frequency could activate the pleasure system. The face and the name would be called to mind mostly in the cortex, but the pleasure system is probably down in the sub-cortex close to the better-known fear system. It has been claimed that, for its size, the human brain is the most complicated thing in the universe; certainly, there is room in the cortex for some gizmo that is actuated by a jump in frequency and sends a message down to release a sensation of joy. 
 
-The virtue of such a mechanism is its wide responsiveness. Two thoughts might be two rhyming words, or a sound and a memory, or 
-
-How might it work inside the brain? 
-
-any of the 35 instances of matching already listed. It is widely supposed that there are parts of the cortex devoted to putting thoughts or ideas 
-
-ese parts collectively are called the “association cortex” and they can receive all kinds of input --- from the senses, from memory, or from those parts of the brain where hopes, intentions and other imaginary things are conceived. It is just the association cortex that needs to contain the frequency sensor or sensors; we are not looking here at any system of voluminous extent. 
+The virtue of such a mechanism is its wide responsiveness. Two thoughts might be two rhyming words, or a sound and a memory, or any of the 35 instances of matching already listed. It is widely supposed that there are parts of the cortex devoted to putting thoughts or ideas together. These parts collectively are called the “association cortex” and they can receive all kinds of input --- from the senses, from memory, or from those parts of the brain where hopes, intentions and other imaginary things are conceived. It is just the association cortex that needs to contain the frequency sensor or sensors; we are not looking here at any system of voluminous extent. 
 
 The weakness of such a suggestion, on the other hand, is that it is merely a guess or speculation. But I have two remarks to make about that: 
 
@@ -800,7 +699,7 @@ Second, guessing at an answer helps to emphasize the question. I don't want read
 
 (This jump-in-frequency hypothesis is presented slightly more formally in the fourth item in the References.) 
 
-Summary 
+### Summary 
 
 For now, let's see how far we have come. 
 
@@ -808,65 +707,40 @@ I have listed 35 aspects of daily life and suggested that they all have one feat
 
 I have suggested that this is more than a curiosity, it is an effect that influences a person's whole life. To understand better where one stands today and where one is headed, including one's relations with other people and how to be more genuinely helpful, one would do well to understand this feature. 
 
-The suggestions are not outlandish. They have been mentioned inconspicuously by at least three other people (N. Humphrey, J. 
+The suggestions are not outlandish. They have been mentioned inconspicuously by at least three other people (N. Humphrey, J.  McCrone and J. Fost) and have almost been enunciated in the big-time neuroscience journals. 
 
-Our Joyful Minds 
-
-McCrone and J. Fost) and have almost been enunciated in the big-time neuroscience journals. 
-
-The suggestions are compatible with as much as is known about physical brains. The mechanism I have just described is grossly oversimplified, just a cartoon, and may be quite wrong but our feelings tell us that some such mechanism must be there; we just have to find 
-
-it. 
+The suggestions are compatible with as much as is known about physical brains. The mechanism I have just described is grossly oversimplified, just a cartoon, and may be quite wrong but our feelings tell us that some such mechanism must be there; we just have to find it. 
 
 As far as daily life and the future are concerned, maybe that is all I have to say. The questions, Where did language come from? and why are we so different from other animals? are not practical. All the same, I find them interesting. Besides, they provide an occasion for looking at that fascinating object, a human infant, so let us hurry on into another chapter. 
 
-Anecdote: soccer camp 
+## Anecdote: soccer camp 
 
 Some years ago, my son wanted to spend a week at soccer camp and the decision had to come from me. On a Monday night I lay awake considering alternatives; if he went, he would gain such and such benefits whereas in an extra week at home we could give him such and such others. I had in mind a string of desirable qualities in a young boy --- honesty, initiative, self-reliance, kindness etc. --- and looked for a course of action whose outcome would match some of these. Eventually I thought of a course of action that gave a good match; link-joy descended and I fell asleep. 
 
-But Tuesday brought a new challenge. On waking, I had in mind the course of action I favored and the conjectural benefits in view, but my inner voice could not find suitable words. I needed a phrase that matched my intent but that would also carry weight with my son; I 
-
-27 
-
-How might it work inside the brain? 
-
-wanted the words he heard to have meaning for him, I wanted him to find that the words matched some idea in his mind that he already understood; in short, I wanted rapport. On Monday I sought link-joy for myself, and on Tuesday I sought link-joy for my son. 
+But Tuesday brought a new challenge. On waking, I had in mind the course of action I favored and the conjectural benefits in view, but my inner voice could not find suitable words. I needed a phrase that matched my intent but that would also carry weight with my son; I wanted the words he heard to have meaning for him, I wanted him to find that the words matched some idea in his mind that he already understood; in short, I wanted rapport. On Monday I sought link-joy for myself, and on Tuesday I sought link-joy for my son. 
 
 Situations like the one just described lie behind such everyday phrases as: 
 
-“I didn't know enough to figure out all the consequences; 
+“I didn't know enough to figure out all the consequences; I had to do just what *felt* right at the time ..."
 
-I had to do just what felt right at the time ..." If an action feels right, that is because it matches some idea or belief already in one's mind, and one can see here also how link-joy events accumulate. A long-range purpose can only be pursued through short range decisions, and most of these are made by matching. If, over and over, one does what matches or feels right, there is a good chance that one's long-range goal will be met. The poet Schiller wrote that joy drives the wheels of the great clock of the world, and in that image one can conceive a big wheel driven by a whole train of little wheels. Schiller was right: link-joy drives the little wheels and, cumulatively, long-range consequences emerge. 
+If an action feels right, that is because it matches some idea or belief already in one's mind, and one can see here also how link-joy events accumulate. A long-range purpose can only be pursued through short range decisions, and most of these are made by matching. If, over and over, one does what matches or feels right, there is a good chance that one's long-range goal will be met. The poet Schiller wrote that joy drives the wheels of the great clock of the world, and in that image one can conceive a big wheel driven by a whole train of little wheels. Schiller was right: link-joy drives the little wheels and, cumulatively, long-range consequences emerge. 
 
-mai mare 
 
-mon 
+## Chapter 4 Infants and language 
 
-Chapter 4 
-
-Infants and language 
-
-Infants before speech Chimpanzees 
+* Infants before speech 
+* Chimpanzees 
 
 Some time soon, you will see an agreeable sight --- an older child or an adult playing with a baby. You hold out a finger and the infant clutches it, or you give its foot a tiny shake. You say "B..bb..bb..buh!” and the infant makes a similar response. Then one moves on to routines --- clapping hands or counting toes; or if a child sits on one's knee there are ways of moving one's knees that make a routine. The first time round, the child may wonder what is happening but after two or three repeats enjoyment sets in. Indeed, who has not been caught by a child Who won't let you stop? “Do it again, momma!" --- or whoever the playmate might be. 
 
-There is much in earlier chapters about repetition yielding pleasure but the focus here on infants brings us to learning to talk. I want to show how large a part link-joy plays. Infants Before Speech 
+There is much in earlier chapters about repetition yielding pleasure but the focus here on infants brings us to learning to talk. I want to show how large a part link-joy plays.
 
-ents 
+### Infants Before Speech 
+
 
 First a child learns to babble. Infants learn to make sounds and they explore the variety within their power. But before any meaning attaches, an infant is not apt to string together unrelated syllables. If a child is alone and you hear it babbling to itself, you don't hear "Ka-roo-ta boo-be-ra-po-sat ...", you hear “B..bb..bb..buh! B..bb..bb..buh!" --- you hear repetition. Early words tend the same way --- papa, baby, puppy, din-din etc. But I want to look farther back: what is happening in an infant's mind before it starts using words? 
 
-A bundle! Compare an infant of eight months with a new-born: what a store of knowledge has been built up! And it has been built up by recurrence. Events that recur get remembered; an event that happens only once has no effect unless it is of a particularly arresting kind. The mother's face and smell, the milk, the pillow and the light from the window become known familiar items in the infant's world. The infant does not think of a series, thinking “That light I have seen before has come on again” --- it forms the concept of a single window that is continuously there. Shapes, colors and qualities such as softness get 
-
-n: 
-
-29 
-
-Infants and language 
-
-ICII 
-
-to be known. By six months, an infant has seen enough blue objects to know the idea of “blue," and then from around six months onward a new tendency develops: given a medley of colored beads, an infant spontaneously tends to pair two of the same color together --- either touching one and then the other or pushing one toward the other. There is a great difference between what a child can be taught to do by training and what they do spontaneously, the former having been far more extensively studied. But the latter spontaneous activities are the topic here. Why does a child pair off beads of a similar color or similar shape? Because the child is free, it is "doing what it likes.” The child likes to pair off two similar beads; why else would she do it? 
+A bundle! Compare an infant of eight months with a new-born: what a store of knowledge has been built up! And it has been built up by recurrence. Events that recur get remembered; an event that happens only once has no effect unless it is of a particularly arresting kind. The mother's face and smell, the milk, the pillow and the light from the window become known familiar items in the infant's world. The infant does not think of a series, thinking “That light I have seen before has come on again” --- it forms the concept of a single window that is continuously there. Shapes, colors and qualities such as softness get to be known. By six months, an infant has seen enough blue objects to know the idea of “blue," and then from around six months onward a new tendency develops: given a medley of colored beads, an infant spontaneously tends to pair two of the same color together --- either touching one and then the other or pushing one toward the other. There is a great difference between what a child can be taught to do by training and what they do spontaneously, the former having been far more extensively studied. But the latter spontaneous activities are the topic here. Why does a child pair off beads of a similar color or similar shape? Because the child is free, it is "doing what it likes.” The child likes to pair off two similar beads; why else would she do it? 
 
 Now let's extend that idea by guesswork. If you give an infant a ball today, I guess that she likes to remember a ball she saw yesterday and to think of the two balls together. Equally, if you say “ball” she likes to remember that you said the same often before and likes to put the sounds together. There is finally a moment when she makes the link and realizes that the sound goes with the object --- but before that moment, the child already has in mind a cluster of objects she habitually thinks of together. If she did not have such a cluster, she could never realize what your word "ball” refers to --- she would be stuck with the mistaken idea that that was the name of some particular ball. And if she did not enjoy thinking of similar things in clusters, she would never be in that way prepared. 
 
@@ -874,53 +748,21 @@ As Joaquin Fuster expresses it, “Perception is the classing of the world into 
 
 If only parents did not interfere! The means by which an infant learns language would be easier to study if parents would stay away and stop teaching it. No chance! But readers may be aware of those surprising events that occurred around 1990 among some deaf children in Nicaragua. 
 
-If a child is born deaf in a small isolated community, its caretakers usually develop sufficient gestures for the child to function from day to day, but the child rarely learns to communicate in a fully human way. But a well-intentioned government in Nicaragua set up a residential school and gathered a number of such children together with the idea 
-
-evo 
-
-Sal 
-
-an 
-
-1K, 
-
-30 
-
-Our Joyful Minds 
-
-noort 
-
-wa 
-
-of teaching them more effectively. The formal operation was slowly getting into gear when it was noticed that, all on their own, the children were signing to each other. The truly surprising part was that their “speech” was not limited to simple words and phrases like “Give me that.” The children developed a language with sentence structure, abstract ideas and the beginnings of a grammar --- an adequate basis for a totally expressive flexible language. If only hidden cameras and specialists in language had been there to record the process! As it is, the records are fragmentary but there is no doubt about the result: spontaneous development of words and sentences because the children had things already formed in their minds that they wanted to say. 
+If a child is born deaf in a small isolated community, its caretakers usually develop sufficient gestures for the child to function from day to day, but the child rarely learns to communicate in a fully human way. But a well-intentioned government in Nicaragua set up a residential school and gathered a number of such children together with the idea of teaching them more effectively. The formal operation was slowly getting into gear when it was noticed that, all on their own, the children were signing to each other. The truly surprising part was that their “speech” was not limited to simple words and phrases like “Give me that.” The children developed a language with sentence structure, abstract ideas and the beginnings of a grammar --- an adequate basis for a totally expressive flexible language. If only hidden cameras and specialists in language had been there to record the process! As it is, the records are fragmentary but there is no doubt about the result: spontaneous development of words and sentences because the children had things already formed in their minds that they wanted to say. 
 
 Other writers on the subject of infants have emphasized the social end more than the cognitive or self-expression aspect. For sure, an infant enjoys company; it is the presence of a second person that provides much of the fun. And what motivated the young Nicaraguans was the joy of signing to each other. But before that part can be fun, one has to have something to say. Once one's own mind possesses concepts and begins to see relations among them there is this stage: one thinks, for example, “I saw a tree like that yesterday" except that one has no inner language to express the thought even to oneself. Without words, one perceives a tree, retrieves a memory, sees a resemblance and feels joy. But it is all inarticulate --- one cannot share one's joy for lack of words. It is proper to emphasize the social end; it is certainly a social desire that makes one eager to share one's thoughts. But to form the thoughts in the first place in oneself, one needs concepts like "tree," "ball” and yesterday.” And it is the early solitary pleasure of mentally grouping similar objects (during the silent eight months) that prompts the infant to form concepts. 
 
 Let me summarize by changing Fuster's words slightly: “When an infant looks around, its perception of its surroundings is the classing of what it sees into categories (window, pillow, mother etc.) The categorizing that forms the infant's percepts is essentially a matching act between a thing seen now and things already in mind ...". And what Fuster forgot to mention: it is pleasure from the matching act that makes the infant do it so irrepressibly. 
 
-Infants in general are fairly happy. When not hungry or hurting, they explore their world, move things around, chase beetles etc. They 
-
-
-
-Infants and Language 
-
-exercise curiosity and gradually make sense of things. The infant is happy because making sense of things is fun; making sense of things is a matching act and matching sets off link-joy. 
+Infants in general are fairly happy. When not hungry or hurting, they explore their world, move things around, chase beetles etc. They exercise curiosity and gradually make sense of things. The infant is happy because making sense of things is fun; making sense of things is a matching act and matching sets off link-joy. 
 
 Most infants do not keep a diary, they do not record these processes and mostly forget them. But here is Helen Keller remembering: “That living word awakened my soul, gave it light, joy, set it free!" 
 
 (The work on spontaneous pairing was led by Jonas Langer. The Nicaraguan children's activity is described in Chapter 2 of The Language Instinct by Steven Pinker.) 
 
-Chimpanzees 
+### Chimpanzees 
 
-Now it is time to write about Roger Fouts. I mentioned already a curious fact: enormous efforts have been made to discover what children can be taught to do by training, compared with very little effort to record systematically what they do if left alone. It is similar with chimpanzees, though here it is more understandable. With chimpanzees and language, if left alone, what they do is Not much. What has been discovered by extraordinarily persistent efforts is what they can be trained to do. Well, the short answer is that if rewarded with, for example, sips of sweet fruit juice --- (over and over ... no, try it again ... and again ... yes! now again ... and once more, come on! ...) --- if sufficient money, patience and hours of time are expended, a young chimpanzee can be taught enough sign language to express simple thoughts. But with increasing age, the learning rate drops off and beside that, the student becomes hard to manage, excessively strong. So the experimenter takes on a new learner and the world acquires another trained old-timer for the chimpanzees' retirement home. To his eternal credit, Roger Fouts took this population seriously. He moved mountains to provide an adequate home where these ex-students could have some approximation to an ordinary chimpanzee life --- except, of course, that they could sign to one another if they wanted to. They were not in any sense on display; their autonomy and privacy were fully upheld. But for a while there was one section of glass wall, and a human who knew sign language could walk up to it and make a remark. Maybe no inmate was looking, or maybe one would look but pay no attention, but occasionally one would sign back and chat briefly with the visitor. But the whole process never went far. The chimpanzees were occasionally seen signing to each 
-
-e 
-
-32 
-
-Our Joyful Minds 
-
-other as well as using gestures and grimaces; and sure enough, infants born in the retreat learned a few signs from their elders with no human intervention whatever (no sips of juice). All the conditions were present for spontaneous development of language to occur but hardly anything happened. 
+Now it is time to write about Roger Fouts. I mentioned already a curious fact: enormous efforts have been made to discover what children can be taught to do by training, compared with very little effort to record systematically what they do if left alone. It is similar with chimpanzees, though here it is more understandable. With chimpanzees and language, if left alone, what they do is Not much. What has been discovered by extraordinarily persistent efforts is what they can be trained to do. Well, the short answer is that if rewarded with, for example, sips of sweet fruit juice --- (over and over ... no, try it again ... and again ... yes! now again ... and once more, come on! ...) --- if sufficient money, patience and hours of time are expended, a young chimpanzee can be taught enough sign language to express simple thoughts. But with increasing age, the learning rate drops off and beside that, the student becomes hard to manage, excessively strong. So the experimenter takes on a new learner and the world acquires another trained old-timer for the chimpanzees' retirement home. To his eternal credit, Roger Fouts took this population seriously. He moved mountains to provide an adequate home where these ex-students could have some approximation to an ordinary chimpanzee life --- except, of course, that they could sign to one another if they wanted to. They were not in any sense on display; their autonomy and privacy were fully upheld. But for a while there was one section of glass wall, and a human who knew sign language could walk up to it and make a remark. Maybe no inmate was looking, or maybe one would look but pay no attention, but occasionally one would sign back and chat briefly with the visitor. But the whole process never went far. The chimpanzees were occasionally seen signing to each other as well as using gestures and grimaces; and sure enough, infants born in the retreat learned a few signs from their elders with no human intervention whatever (no sips of juice). All the conditions were present for spontaneous development of language to occur but hardly anything happened. 
 
 Recall the Nicaraguan children. No-one was teaching them, yet you could not stop their language from developing. The children enjoyed new words, new forms of sentence, new thoughts to express. Here is Fuster again: "... categorization ... is the essence of all cognitive functions ..." --- it provides simple concepts such as “ball” and more abstract ones like “restrictive adjectival clause" but the children formed them all. And why did they? For why, if not for enjoyment? 
 
@@ -928,15 +770,9 @@ Of course children have larger brains than chimpanzees and may be differently re
 
 (Beside language-trained chimpanzees, there are many no longer needed in medical programs or in circuses; there are now several large habitats and some hundreds of chimpanzees in retirement. But as far as I know the community founded by Fouts is the only one where language-trained chimpanzees form the social group.) 
 
-Anecdote: Wijdefjord 
+## Anecdote: Wijdefjord 
 
-We traveled by boat down the west side of a ford for a couple of days, then crossed to the east side and went ashore. The rest of the party made camp, but I was told, “Go a few hundred feet up the hill and make a careful sketch of the panorama to the west.” Following instructions, I climbed up and then sat and sketched all the peaks and valleys I could 
-
-33 
-
-Infants and Language 
-
-see. Eventually, finished, I broke off and looked around --- and nothing was familiar! My buddies were in dead ground below the brow where I was sitting, and my recollection of arriving there had been washed away by my concentrating on the sketch. By reasoning I could assure myself that if I took a few steps downhill I would find camp and boats and all, but as to sensation, it was as if I had been dumped by aliens from a spacecraft. (By boat, of course, we had seen the western shore close up from sea level, but not the high hinterland that I was now looking at.) 
+We traveled by boat down the west side of a ford for a couple of days, then crossed to the east side and went ashore. The rest of the party made camp, but I was told, “Go a few hundred feet up the hill and make a careful sketch of the panorama to the west.” Following instructions, I climbed up and then sat and sketched all the peaks and valleys I could see. Eventually, finished, I broke off and looked around --- and nothing was familiar! My buddies were in dead ground below the brow where I was sitting, and my recollection of arriving there had been washed away by my concentrating on the sketch. By reasoning I could assure myself that if I took a few steps downhill I would find camp and boats and all, but as to sensation, it was as if I had been dumped by aliens from a spacecraft. (By boat, of course, we had seen the western shore close up from sea level, but not the high hinterland that I was now looking at.) 
 
 I would like to succeed in conveying the strangeness of that moment. Perhaps one finds a parallel on the first morning of a vacation. One wakes in a strange room and may momentarily wonder, “Where am I?" But that moment is usually brief and fleeting; associations and memories bob up; waking and adjusting to our perceptions is a thing we do every day. But on the hillside, everything was indeed unfamiliar; no recognition, only rational thought, linked me to my earlier life. 
 
@@ -944,13 +780,12 @@ The purpose of that little recollection was to reinforce the opposite point: in 
 
 Another time, I was on an excursion in a group of about twenty people. Amongst the group were three who had written a book together, called Hobbs, Means and Williams. At lunch we were scattered about a cliff-top, perching as best we could on various knobs of rock etc., with Hobbs, Means and Williams among the rest. In fact the authors were in a row and chanced to be in the same order as on the title-page. An insouciant young woman suddenly piped up, crying, “Look, they are in the right order!" It was a link-joy moment for everybody. 
 
-MA 
+## Chapter 5 Speculations 
 
-Chapter 5 
-
-Speculations 
-
-What makes humans so special? A link to religion Consciousness Ideals and “higher things” 
+* What makes humans so special?
+* A link to religion
+* Consciousness
+* Ideals and “higher things” 
 
 t creates 
 

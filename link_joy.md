@@ -787,157 +787,82 @@ Another time, I was on an excursion in a group of about twenty people. Amongst t
 * Consciousness
 * Ideals and “higher things” 
 
-t creates 
-
 My program here has been to start from what is incontrovertible and move only cautiously to what is more doubtful. 
 
-People do jigsaw puzzles; 
+**TODO double check this is correct layout**
 
-People enjoy doing jigsaw puzzles; 
+* People do jigsaw puzzles; 
+  * People enjoy doing jigsaw puzzles; 
+    * What they enjoy mostly is the good fit of one piece with the next.
+* People recite rhymes; 
+  * People enjoy reciting rhymes;
+    * What they enjoy mostly is the rhyme of one word with the preceder.  
+* Joy from a jigsaw arises in my brain; 
+  * There's an item in my brain that creates joy from a jigsaw.
+* Joy from a rhyme arises in my brain; 
+  * There's an item in my brain that creates joy from a rhyme.
+* There is similarity between enjoying a jigsaw 
+  * and enjoying a rhyme;
+* Perhaps it is the same item that creates joy in both contexts.
 
-What they enjoy mostly is the good fit of one 
+Perhaps I would manage my life better if I gave a little more attention to this effect; perhaps we would all manage our lives better if we jointly gave attention to this effect. 
 
-piece with the next. People recite rhymes; 
+But in this chapter, I abandon caution, strike out into the deep ocean, and offer some mere speculations. Like swimmers in the deep ocean, we lose touch with firm ground and may get swept to places that are not familiar. But at least I can name some topics --- see the chapter contents above. Let me reiterate that I claim no special authority and the whole chapter may have no practical value. The reader perhaps shares my inquisitiveness; if so, let's get on with it. But the uncertainties in this chapter should not obscure what seem like certainties in the chapters before. 
 
-People enjoy reciting rhymes; 
+### What Makes Humans so Special?
 
-What they enjoy mostly is the rhyme of one 
-
-word with the preceder. Joy from a jigsaw arises in my brain; 
-
-There's an item in my brain that creates 
-
-joy from a jigsaw. Joy from a rhyme arises in my brain; 
-
-There's an item in my brain that creates 
-
-joy from a rhyme. There is similarity between enjoying a jigsaw 
-
-and enjoying a rhyme; Perhaps it is the same item that creates 
-
-joy in both contexts. Perhaps I would manage my life better if I gave a little more attention to this effect; perhaps we would all manage our lives better if we jointly gave attention to this effect. 
-
-But in this chapter, I abandon caution, strike out into the deep ocean, and offer some mere speculations. Like swimmers in the deep ocean, we lose touch with firm ground and may get swept to places that are not familiar. But at least I can name some topics --- see the chapter contents above. Let me reiterate that I claim no special authority and the whole chapter may have no practical value. The reader perhaps shares my inquisitiveness; if so, let's get on with it. But the uncertainties 
-
-35 
-
-Speculations 
-
-ans 
-
-mo 
-
-in this chapter should not obscure what seem like certainties in the chapters before. What Makes Humans so Special? As already mentioned, the answer may be our relation to the supernatural, to a god or God or goddesses. On this point I have a belief or faith but 
-
-want to expound it, beyond saying that I think the earth is billions of years old and that, whoever is in charge, most attributes of people today evolved from a common ancestor that we share with chimpanzees. But beside the possibility of a divine spark, there are visible differences --- a vast range of differences between present day people and chimpanzees. According to the theory of evolution, if we trace these differences backward in time they eventually taper to nothing. And then if we begin to creep forward again, there is a moment when some difference or differences existed but were tiny; yet despite being tiny, they contained the seeds of all the differences we see now. One wonders about that crucial moment what the tiny difference or differences were. 
+As already mentioned, the answer may be our relation to the supernatural, to a god or God or goddesses. On this point I have a belief or faith but I don't want to expound it, beyond saying that I think the earth is billions of years old and that, whoever is in charge, most attributes of people today evolved from a common ancestor that we share with chimpanzees. But beside the possibility of a divine spark, there are visible differences --- a vast range of differences between present day people and chimpanzees. According to the theory of evolution, if we trace these differences backward in time they eventually taper to nothing. And then if we begin to creep forward again, there is a moment when some difference or differences existed but were tiny; yet despite being tiny, they contained the seeds of all the differences we see now. One wonders about that crucial moment what the tiny difference or differences were. 
 
 Obviously I don't know the answer. Many people have offered possibilities and each suggestion has some merit. My intention here is to add the suggestion that link-joy may have been a factor, and to suggest that as a factor it could perhaps have been large. 
 
 First, let's avoid being over-simple. It seems that the human chimpanzee split occurred around 7 million years ago but we should not imagine, from that point on, just two populations or lines of descent, one leading to present-day chimpanzees and the other to humans. On either side there may well have been several branches. Indeed the chimpanzee side split into bonobos ("pigmy chimpanzees”) and the regular kind, and may have included other varieties as well, now extinct. On the human side, the majority opinion is that all present-day humans are descended from a group that existed in Africa less than 200 million years ago; all other variants that existed at that time on other continents are now extinct. In short, either side of the tree of descent was multi-branched. But the extra branches don't affect the basic question, Could link-joy have made a difference? Or perhaps it would be better to ask, How much difference could link-joy have made? 
 
-Our Joyful Minds 
-
 We need to peer into a chimpanzee's mind: how much forward planning do they do? After reading lane Goodall's reports, I think it is perfectly reasonable to suppose that before settling in for the night, a chimpanzee has some ideas about the next day. She may remember the tree from which she got fruit today; she may imagine returning to that same tree again tomorrow (a fairly definite image), but I think she might instead carry in her mind the less specific idea “some other fruit tree." She might imagine heading in a fresh direction tomorrow to an area where she thinks “some other fruit tree” is likely to be found. Of course all this thinking is done without words but a chimpanzee that has seen many trees can extract from that experience a general idea "tree" and the more specific idea "fruit tree.” Now she does this by grouping her memories of fruit trees in one group, nut trees in another group, and so on. The manner in which chimpanzees do their foraging indicates this much about their minds. 
 
 But chimpanzees are pretty much down-to-earth; there is nothing high-falutin' about a chimpanzee. They form abstract concepts like "some fruit tree” (imagined in vague form, not specific) but only as far as material affairs are concerned. Where people might give much of their time to eating, shopping, sexual affairs and sport, with a chimpanzee you can leave out the shopping and sport. (On the other hand, to give them credit, some devote much time and care to raising their young; some are tender-hearted parents.) My point is that they don't speculate, they don't have flights of fancy, they don't juggle ideas for fun --- and that is exactly what people do. A person's mind is continually spinning ideas; even while we sleep, the ideas fly about and pop up in unusual combinations. But now I am looking at present-day people; what about early people, when they were much closer to chimpanzees? 
 
-Here is what may have been crucial: once a person gets joy from matching two ideas together, there doesn't have to be any material gain. Once people get joy from matching, they are apt to sit around combining ideas just for the fun. For an example, think of one of our ancestors who sees a cloud above a mountain, a tree-branch above the ground, and her knee above her foot. With link-joy, she may think, "That's neat, three examples of the same thing!" --- and remember them, and later add a fourth. Without link-joy, the ancestor would 
-
-and 
-
-no 
-
-37 
-
-Speculations 
-
-know perfectly well what to do about fruit that was above her, but would never make the cloud-above-mountain connection. 
+Here is what may have been crucial: once a person gets joy from matching two ideas together, there doesn't have to be any material gain. Once people get joy from matching, they are apt to sit around combining ideas just for the fun. For an example, think of one of our ancestors who sees a cloud above a mountain, a tree-branch above the ground, and her knee above her foot. With link-joy, she may think, "That's neat, three examples of the same thing!" --- and remember them, and later add a fourth. Without link-joy, the ancestor would know perfectly well what to do about fruit that was above her, but would never make the cloud-above-mountain connection. 
 
 [A historical detail: in old-fashioned language, one might say that the ancestor I just described extracted the general character “above” from the three instances. To “extract a character” would nowadays more often be called extracting a characteristic. But William James in 1892, more than a century ago, wrote “... (animals) never extract characters for the mere fun of the thing, as men do." He put his finger on the very same difference that I am emphasizing now. But James did not see it as a possible cause of man's uniqueness, a cause of the divergence from chimpanzees --- probably because he was not looking for such a cause. And people who have looked for a cause since perhaps have not noticed James' perception.] 
 
 There is a particular difficulty about the origin or development of human language. I distinguish here between language in animals (which covers material concerns --- eating, mating etc. --- and is limited) and language in humans (which by now covers an unimaginable variety and must from early on have had a tendency to sprout copiously). What language sprouts into so abundantly is words, ideas or concepts that are not of immediate material use. For sure, such words become useful later; once conversation gets started, a rich language facilitates all kinds of benefits. But what is the benefit at an earlier stage? To invent language about something of no immediate use, one has to form an idea (“have something to say”), then invent a word, and then find another person who might have formed the same idea and be ready to grasp the meaning of your word when you say it. As is often true today, an invention has to happen first and then its usefulness can be discovered later. So why would an early human form a useless idea and try to mention it to a companion? It is a formidable difficulty. But if forming an idea --- like the idea "above" in the example just discussed --- was a pleasure in itself, the difficulty is overcome; the pleasure is the motivation. 
 
-A Link to Religion 
+### A Link to Religion 
 
-Some people believe that all religions are groundless. For such people, a puzzling question is, Where have religions come from? If there are not any supernatural entities, why do so many people believe that there 
+Some people believe that all religions are groundless. For such people, a puzzling question is, Where have religions come from? If there are not any supernatural entities, why do so many people believe that there are? Once a religion is well founded, many people believe it because their parents believed it, belief being inculcated while the person is young. But the question remains how a religion gets started in the first place. Partial answers have been offered on the following lines: 
 
-38 
+* 1 While a person is young and in the care of its parents, the idea that "someone will take care of me" is apt to take root. After the parents die, the idea remains attractive and a person may unconsciously invent a parent-substitute. 
 
-Our Joyful Minds 
+* 2 People from time to time have hallucinations. Some plants cause unusual states of mind, and some people can produce trances by sitting still etc. In some of these states, a person is seized by a conviction such as that everything exists because of a benevolent unifying influence. And such a conviction may persist or be remembered after the person returns to “normal.” 
 
-are? Once a religion is well founded, many people believe it because their parents believed it, belief being inculcated while the person is young. But the question remains how a religion gets started in the first place. Partial answers have been offered on the following lines: 
 
-1 
+* 3 Some natural events seem larger than human. Suppose an infant is chided by someone in a gruff voice and then hears thunder. It would not be surprising it the infant imagined that there is an even larger person with an even gruffer voice. Or suppose that in a community there is some conspicuously splendid, healthy, powerful, vigorous man or woman, and yet that person suddenly dies. The idea of their being struck by someone even more powerful but invisible might appear a possibility.
 
-While a person is young and in the care of its parents, the idea that "someone will take care of me" is apt to take root. After the parents die, the idea remains attractive and a person may unconsciously invent a parent-substitute. 
-
-I 
-
-2 
-
-se 
-
-10 
-
-Il 
-
-People from time to time have hallucinations. Some plants cause unusual states of mind, and some people can produce trances by sitting still etc. In some of these states, a person is seized by a conviction such as that everything exists because of a benevolent unifying influence. And such a conviction may persist or be remembered after the person returns to “normal.” 
-
-e even more 
-
-ra 
-
-3 Some natural events seem larger than human. Suppose an 
-
-infant is chided by someone in a gruff voice and then hears thunder. It would not be surprising it the infant imagined that there is an even larger person with an even gruffer voice. Or suppose that in a community there is some conspicuously splendid, healthy, powerful, vigorous man or woman, and yet that person suddenly dies. The idea of their being struck by someone even more powerful but invisible might appear a 
-
-possibility. The last of these is plausible cause for fear of a god, but what might prompt belief in a god or gods of benevolent type? Items 1 and 2 are possibilities, but I want to enlarge on item 3: can the natural world make us believe in benevolent gods as well as fearsome ones? 
+The last of these is plausible cause for fear of a god, but what might prompt belief in a god or gods of benevolent type? Items 1 and 2 are possibilities, but I want to enlarge on item 3: can the natural world make us believe in benevolent gods as well as fearsome ones? 
 
 I would not raise the question if I had no answer for it. The whole discussion is begun so that I can make a suggestion: a person is apt to be seized occasionally by the idea, “It's good to be alive!" One's muscles seem to be working, one recently tasted something good, one has an occupation at which one expects to succeed and there are drifting clouds in a blue sky. Everything is as it should be, to such a marked extent that one thinks, “Someone must have organized this!" 
-
-39 
-
-Speculations 
 
 Now “everything as it should be” is a matching condition; the state matches an idea within oneself. Years of life provide an internal sense of how things should be and sometimes when one looks around, that's how they are. For example, when one admires an extensive view one's sense is, “That's as it should be. There is an enormous extent of stuff in view and it is all as it should be.” One's pleasure from the matching is considerable and the idea that a benevolent god set it up comes rather readily to mind. 
 
 Of course the majority of people believe that a benevolent god or God did set it up. In this section, I am just sketching a possibility in case it is of interest to the minority. 
 
-Consciousness 
+### Consciousness 
 
 A fashionable topic! Consciousness is fashionable and link-joy unfashionable. Consciousness is something we share with chimpanzees while link-joy probably is not --- link-joy may be what makes humans unique. Surely what makes us different from chimpanzees is more interesting than what we share with them, yet consciousness is fashionable! There is no accounting for fashion. (Well, perhaps there is, but that is not our business here.) 
 
-Some readers will already have objected, "Human consciousness is different, human consciousness is something we do not share with chimpanzees.” A person thinking on these lines may be thinking of self-consciousness, a person's awareness of his or her unique self. It is commonly supposed --- as far as I know correctly --- that a person's thoughts or feelings about his or her self, her personality, uniqueness, place in the universe etc. are more extensive than those of a chimpanzee; perhaps self-consciousness is what we should discuss. 
+Some readers will already have objected, "*Human* consciousness is different, *human* consciousness is something we do not share with chimpanzees.” A person thinking on these lines may be thinking of self-consciousness, a person's awareness of his or her unique self. It is commonly supposed --- as far as I know correctly --- that a person's thoughts or feelings about his or her self, her personality, uniqueness, place in the universe etc. are more extensive than those of a chimpanzee; perhaps *self*-consciousness is what we should discuss. 
 
 Now suppose someone suggests that what makes humans unique is this self-consciousness --- "we have it, all other animals don't." I suggested earlier in this chapter that, instead, perhaps it is link-joy that makes humans unique, so how do these two suggestions fit together or clash? 
 
 My thought is that self-awareness depends on link-joy. Self-awareness is just one among a group of things that only humans possess, but the whole group depends on link-joy and link-joy is the basic difference. 
 
-uman 
+The reason has to do with abstract concepts and levels of abstraction. I already looked at a chinipanzee's limited range of material concerns, and suggested that lini-ay will make a primate cogitate further. Simply for fun, to gain link-joy, a primate might for example gather instances of "above." And, watching a river, she might conceive “smooth” and “rough"; hearing a cushing river and the wind, she might “noisy.” I am looking for concepts that don't help directly with finding food or avoiding harm, but might seem interesting. A primate who watches a smooth patch on a river might indicare it to a companion and (probably after a few false starts), they might agree on a sound to associate with it. Thus would begin the joy of conversation, and soon the material benefits of conversation and improved cooperation would reinforce the developments. But aside from material benefits, one level of abstraction leads to another: after “noisy” and “quiet" comes the idea of loudness --- a thing that can be great or small. The difference between “simple” and “complicated” is somewhat abstract, and a primate's ideas about time can obviously get more sophisticated by degrees. Finally, as part of this general process of building up more abstract ideas about the world, the primate builds more sophisticated ideas about herself; self-awareness develops along with growth-of-trees awareness, meteorology-awareness and ecological-balance awareness. Their own selves is just part of the package of things that humans understand and other animals do not, but the entire package depends on link-joy --- that's my suggestion.
 
-or 
-
-Our Joyful Minds 
-
-The reason has to do with abstract concepts and levels of abstraction. I already looked at a chinipanzee's limited range of material concerns, and suggested that lini-ay will make a primate cogitate further. Simply for fun, to gain link-joy, a primate might for example gather instances of "above." And, watching a river, she might conceive “smooth” and “rough"; hearing a cushing river and the wind, she might “noisy.” I am looking for concepts that don't help directly with finding food or avoiding harm, but might seem interesting. A primate who watches a smooth patch on a river might indicare it to a companion and (probably after a few false starts), they might agree on a sound to associate with it. Thus would begin the joy of conversation, and soon the material benefits of conversation and improved cooperation would reinforce the developments. But aside from material benefits, one level of abstraction leads to another: after “noisy” and “quiet" comes the idea of loudness --- a thing that can be great or small. The difference between “simple” and “complicated” is somewhat abstract, and a primate's ideas about time can obviously get more sophisticated by degrees. Finally, as part of this general process of building up more abstract ideas about the world, the primate builds more sophisticated ideas about herself; self-awareness develops along with growth-of-trees awareness, meteorology-awareness and ecological-balance awareness. Their own selves is just part of the package of things that humans understand and other animals do not, but the entire package depends on link-joy --- that's my suggestion. Ideals and “Higher Things" 
-
-ir 
-
-SS 
-
-- 
-
--- 
-
-sm 
+### Ideals and “Higher Things" 
 
 If you were in the Louvre and saw someone approaching the Mona Lisa with a meat axe, would you hurl yourself in her way, even at great risk to yourself? If indeed the worst happened and you lay on the floor progressing toward death, but the felon was caught and the picture saved, would you think, “I am glad. That picture is worth the sacrifice I have made”? 
 
-I hope no reader is faced with this situation. I imagine it just as an example of what I mean by “higher things.” The value of a great work of art is elusive --- many people feel that its value is in some way great, but in what way and how great are not so easy. An example closer to home involves truth and friendship. Should one lie to save a friend or 
-
-Speculations 
-
-allow harm to a friend for the sake of upholding truth? How much value does truth or friendship have? 
+I hope no reader is faced with this situation. I imagine it just as an example of what I mean by “higher things.” The value of a great work of art is elusive --- many people feel that its value is in some way great, but in what way and how great are not so easy. An example closer to home involves truth and friendship. Should one lie to save a friend or allow harm to a friend for the sake of upholding truth? How much value does truth or friendship have? 
 
 I am not going to try to answer these questions. My aim is simply to bring this kind of question into view. I want to establish the fact that there are values that everyone finds hard to pin down. One may be devoutly religious or quite the opposite; for all kinds of person, truth is apt to conflict with friendship from time to time. I emphasize the uncertainty just so that I can go a step farther: can attention to link-joy shed light on this difficult zone? 
 
@@ -945,41 +870,31 @@ Obviously I think link-joy can help --- I would not be writing this paragraph el
 
 Here is an oversimplified picture: both poetry and music can be enjoyed at three levels. In poetry the simplest pleasures are those of rhyme and meter: 
 
-Fear no more the heat o' the sun, Nor the furious winter's rages; Thou thy worldly task hast done, Home art gone, and ta’en thy wages. 
+Fear no more the heat o' the sun,
+
+Nor the furious winter's rages;
+
+Thou thy worldly task hast done,
+
+Home art gone, and ta’en thy wages. 
 
 “Wages" matches “rages," "done” matches “sun” --- and tum ti-tum, ti-tum, ti-tum, the last four beats give us pleasure by matching the four before. Then a second level is that of metaphor, simile, allusion and so on. Does winter get in a furious rage? Certainly, on some blizzard nights I have felt that winter was actively malevolent, attacking me in person; I enjoy the match with the poet's thought there. But there is a third level, concerned with fortitude, acceptance and hope: if I enjoy the poem at this third level, is it because of some match with what I already feel, or do I enjoy Shakespeare's showing me a new possibility, as if opening a door? When I enjoy the poem as a whole, it is not so easy to say exactly what it is that I enjoy. 
 
-With music similarly, the simplest pleasure is the rhythm. Then at the second level there are melodies, themes, variations and so on. We expect, we recognize, we enjoy various matchings among the sections 
-
-42 
-
-Our Joyful Minds 
-
-mco 
-
-OIC 
-
-of a song or an instrumental piece, and at this level I might hope to explain to someone else what it is that I enjoy. But again there is a third level, the impact of the song or sonata as a whole, that is much more difficult to express in words: what did the composer intend, what was the effect on my mood, does it matter if these two diverge, for what purpose does one listen and the other compose? 
+With music similarly, the simplest pleasure is the rhythm. Then at the second level there are melodies, themes, variations and so on. We expect, we recognize, we enjoy various matchings among the sections of a song or an instrumental piece, and at this level I might hope to explain to someone else what it is that I enjoy. But again there is a third level, the impact of the song or sonata as a whole, that is much more difficult to express in words: what did the composer intend, what was the effect on my mood, does it matter if these two diverge, for what purpose does one listen and the other compose? 
 
 Well, that picture is certainly oversimplified. In particular, the idea of three distinct and separable levels is hard to maintain. But the idea of a progression from simple toward complex and from definite toward indefinite seems robust. And the progression is gradual; I think it would be just as hard to maintain that there is a break, with two distinct levels, (1) things we understand and (2) things we don't understand. I find a gradation more than a break. 
 
 And that is as far as I want to go. The “higher things” that we value but find hard to pin down are part of a continuum. At the simpler end of the continuum, link-joy is part of what we value; thinking about link-joy helps us to understand what is going on. I surmise that if people keep link-joy in mind, it will help as they move their thoughts up the continuum. People who try to think deeply about poetry and music, friendship and truth, a human life and a great work of art --- offer these people the concept of link-joy as a help toward crystallizing their thoughts. 
 
-Anecdote: Marza and Anju 
+## Anecdote: Marza and Anju 
 
-One evening I watched my daughter on the stage. She is of slender build and from high in the rear of the auditorium where I sat, her slightness was accentuated. But at that pregnant moment when the 
-
-43 
-
-speculations 
-
-house lights dim and the stage lights come on, her voice piped up well: “What country, friends, is this?" 
+One evening I watched my daughter on the stage. She is of slender build and from high in the rear of the auditorium where I sat, her slightness was accentuated. But at that pregnant moment when the house lights dim and the stage lights come on, her voice piped up well: *“What country, friends, is this?"*
 
 The play was Twelfth Night with the scenes shuffled. She was defenseless, shipwrecked on an unknown shore, but with companions --- secure despite insecurity. Just five words encompassed all this. 
 
-On a related occasion I sat in a high shadowed Gothic building whose west door was open. Out of the night, the voice of a single choir boy came clear as a bell, "Once in royal David's city..." 
+On a related occasion I sat in a high shadowed Gothic building whose west door was open. Out of the night, the voice of a single choir boy came clear as a bell, *"Once in royal David's city..."*
 
-And in the second movement of Mendelssohn's violin concerto, the theme arrives solo: T-a-a-a ta-ta-ta t-a-a-a ... 
+And in the second movement of Mendelssohn's violin concerto, the theme arrives solo: *T-a-a-a ta-ta-ta t-a-a-a ...*
 
 These are goosebump moments, they have that quality in common. But the middle one has a religious background, the first does not, and the third, who knows? Mendelssohn had beliefs but we do not know how far they inspired his music, and for sure, his melody works its magic on the faithful and faithless alike. So what is going on? For people of faith, their “highest concepts exist within the framework of their beliefs, but presentiments of some kind of high ideal are found in ungodly people as well. It's a puzzle: where do the goosebumps fit in, what is their role? Are they a mainspring or just an ornament on the outside of the fabric of life? 
 
@@ -987,23 +902,7 @@ Just last week presented a different angle: I went to a wedding conducted accord
 
 I have known Marza and Anju for several years, we often share meals and have spent days camping together; listening to the wind and watching the moon rise, I imagined that their thoughts were somewhat parallel to my own. But then they married. They are serious young people, I am sure they made their vows with every devout intent, but the god they invoked was a fiction to me. The friends who admired the same moon --- I brushed the underpinning of their lives and found it not only different, I found it wrong, inconceivable; what they firmly believed in seemed to me plain hooey. 
 
-Yet we did admire the same moon; within limits, we love the same Shakespeare and are moved by the same tunes. Are these goosebump experiences more universal than religions? Where religions divide, are there some experiences that unite? Well, of course there are low-level 
-
-some 
-
-44 
-
-Our Joyful Minds 
-
-e moment 
-
-at are i 
-
-same 
-
-are a 
-
-experiences that unite: we all eat and drink. But are there high-level experiences, do we have “sublime moments” that are roughly the same all over the world? 
+Yet we did admire the same moon; within limits, we love the same Shakespeare and are moved by the same tunes. Are these goosebump experiences more universal than religions? Where religions divide, are there some experiences that unite? Well, of course there are low-level experiences that unite: we all eat and drink. But are there high-level experiences, do we have “sublime moments” that are roughly the same all over the world? 
 
 Hard questions, tough sledding! But there is an easier thought that steps us toward an answer. It is the season for gifts, and I plan to give Anju a golf club and Marza a book. Or so it appears --- but those are a means, not an end; my objective is to give them both golden moments. 
 
@@ -1011,11 +910,7 @@ The book is not a page-turner, it is poems and I hope it is more of a heart-stop
 
 There is a more prominent world feature: fear. Politicians promote it, news media exploit it, even the world of neuroscience (for different reasons) gives more attention to fear than to joy. So who specializes in joy? Why, we the people! That small joy, from a golf stroke or a poem, is the young cousin of the most intense joys we ever feel. Among sounds, there is a continuum from a shout down to the faintest of murmurs, and joy-from-connecting ranges similarly from the heart-stopping to the almost subconscious; the intense moments that everyone notices are the tip of a vast iceberg. And this worldwide iceberg deserves our attention because although I don't share the religion of Marza and Anju, I share their link-joys. 
 
-6 
-
-Chapter 6 
-
-Final chapter --- the take-home message 
+## Chapter 6 Final chapter --- the take-home message 
 
 We are close to the end and what do I expect to be remembered from all this? Let's return to the question that opened Chapter 1: “I am not a psychologist or philosopher so why does this matter TO ME?” From what has gone before, let me pick out a few pieces and offer an answer in four parts. 
 
@@ -1025,29 +920,17 @@ First, the raindrop analogy. Anyone will agree that rainstorms matter: sometimes
 
 Second, the shouting-murmuring analogy. How quiet can a sound be and still be detectable? A few quiet sounds are: leaves rustling, one sock or stocking rubbing against another, or the noise from shaking a handkerchief. Two people talking make much more noise and yet are nowhere near the loudest sound one can tolerate. The range of sounds is enormous and goes downward to tiny levels, yet the entire range is handled by a single sensory system. We can imagine then that with link-joy as well, the range from conspicuous down to imperceptible is all handled by a single brain-system. 
 
-The third part concerns novelty and the idea that novelty is a bigger influence than matching or sameness. Being bored is common, and bored people welcome any diversion; the relief is a pleasure, often large enough to be noticed. If I look back over a day, the moments I recall may be mostly moments when something fresh happened. All this is true, and pleasure from moments when “something happened” is real 
-
-final chapter --- the take-home message 
-
-and important. My point is that as well, pleasure from moments of link-joy is important too. Many link-joy moments are less noticeable than moments when something new happens, but they are more fundamental. Psychologists should not stop studying novelty but they should start studying link-joy as well. And ordinary people should go on seeking new tunes, new books, new friends. But don't forget to allow for the vast amounts of quiet pleasure we get from old tunes, books and friends. They are the firm foundation that allows us to leap into what's new. 
+The third part concerns novelty and the idea that novelty is a bigger influence than matching or sameness. Being bored is common, and bored people welcome any diversion; the relief is a pleasure, often large enough to be noticed. If I look back over a day, the moments I recall may be mostly moments when something fresh happened. All this is true, and pleasure from moments when “something happened” is real and important. My point is that as well, pleasure from moments of link-joy is important too. Many link-joy moments are less noticeable than moments when something new happens, but they are more fundamental. Psychologists should not stop studying novelty but they should start studying link-joy as well. And ordinary people should go on seeking new tunes, new books, new friends. But don't forget to allow for the vast amounts of quiet pleasure we get from old tunes, books and friends. They are the firm foundation that allows us to leap into what's new. 
 
 The last point concerns the daily news, which is mostly bad. News is delivered by newscasters of one kind or another; they make money by attracting customers and selling what customers will buy. Because link-joy is so common it is not news --- grief, harm and disasters bring in more money. Every year the means of distributing more news to more people become more powerful, and so news about unhappiness is a swelling flood --- and a distorting flood: the world is a far happier place than you would guess from the supply of news. Now, to some extent people shape the cities and communities they live in and, if this is so, we need people to see things as they are and not in some distorted form. That is, we need to counter the trend by remembering the distortion. We need to remember omnipresent link-joy (among other daily pleasures) when we try to guide our communities into the future. I speculated in Chapter 5 that perhaps link-joy played a role in where people come from. Now I am suggesting, more definitely, that it needs to be recognized whenever we look at where we are headed. 
 
 People in general are not killers. Our struggles against poverty, drugs etc. are not war. For most people, tomorrow's experiences will not include violence. Given the option of dying tonight, people prefer to wake to see tomorrow and that is because tomorrow is good --- it will be full of link-joy. To plan for tomorrow, we need to see tomorrow it is likely to be. It may contain a few link-joys on the scale of shouts, but it will surely contain a multitude on the scale of murmurs; the multitude will gather like raindrops and sweep through the day like a fresh spring shower. If it did not, why would we so constantly wish to see tomorrow? We give each other floods of link-joy all the time; let's not ignore, let's notice and remember that. 
 
-no 
-
-48 
-
-Acknowledgments 
+## Acknowledgments 
 
 It is a pleasure to share the following people for their help and interest: Gordon Galiza, John McCrone, Fred Previc, Ken Paller, Stanislas Dehaene, joras Langer, Guy Genin, Joshua Fost, Nicholas Humphrey, Zlata Phillips, Kate and Dave Murray, Lauren McElroy, Meredith Aldrich, Dunbar Moodie, John and Molly Dewey, Linda Valdez, Walter Auclair, Win and Marilyn Means and the members of my kind family. 
 
-AQ 
-
-50 
-
-Personal history 
+## Personal history 
 
 I used to be a teacher. It was being a teacher that started me in the brain business. I was not an outstanding teacher --- not the worst but certainly not the best. In many college classrooms people sleep at the back but in my classes people would sleep at the front. There was Frank with whom I am still friends: he would arrive on time and sit in the front row, even in the middle of the front row, and in ten minutes he would nod off. The topic was geology, classes were small and it was all quite friendly but one could not avoid thinking, “Why is he here? Why am I here? What exactly are we trying to accomplish by getting together for 50 minutes three times a week?” 
 
@@ -1055,15 +938,7 @@ One of my answers was that a mind is like a tool-box with a variety of tools. Th
 
 Some of the time certainly was enjoyable, studying schist and gneiss and things that were blastopsephitic. Some of the things we looked at were so richly textured that a friend made money from them as wallpaper designs. But the best part was imitations. In geology --- in a cliff or a road-cut, say --- we see the result of a process and the question is, How did it happen? We would get putty, Play-doh and other squashable materials, maltreat them and see the effect --- and sometimes it was just as we saw in the rocks. Well, not just like, but with some points of resemblance. That was what the people enjoyed --- “Hey, neat-oh! Look at that!” The form of words changes from decade to decade but the link-joy moment is the same. 
 
-It works in reverse too. Another approach is to imagine a material with such and such properties, imagine some forces, and figure by mathematics what effects would ensue. Suppose in the theory, the top 
-
-VO 
-
-as 
-
-2 
-
-part always breaks in a particular way: then you scurry out to the rocks and see if you can find any sign of the same thing there. 
+It works in reverse too. Another approach is to imagine a material with such and such properties, imagine some forces, and figure by mathematics what effects would ensue. Suppose in the theory, the top part always breaks in a particular way: then you scurry out to the rocks and see if you can find any sign of the same thing there. 
 
 Beside intentions, there is also luck. The preceding situation had arisen --- I had strung together some beautiful equations to say that if the rocks began as even, uniform, regular layers then it should be possible to find such-and-such results; the small kinks should be related to the larger kinks in a special way. But where to find rocks of such an ideal kind? There were some famous rocks in Japan and some in Nova Scotia; I hunted in Arkansas and in Pennsylvania. But when I traveled with my new wife on some family visits, there was what I needed at the bottom of my Auntie Tim's garden. 
 
@@ -1073,9 +948,8 @@ Before I was a teacher I spent a year in the Antarctic and for part of the time 
 
 The point of this episode is to emphasize that the weather was often too bad for traveling. We might be stuck for days on end with little to do but read, and I was able to creep like a bookworm through many pages by Bertrand Russell. He was good with terse writing bu the only point at which I remember his exact words is where he notes that, if one shuts one eye, one's nose appears "vast and portentous." I want to comment on this deception. On a world scale, one's nose is in fact insignificant and its vastness is illusory. Conversely, here, I am insignificant but the idea I have stumbled upon seems to be actually and in reality vast. 
 
-wa 
 
-References 
+## References 
 
 Aquinas, Thomas 1274 Suinma Theologica --- quoted in Dictionary of 
 
@@ -1092,8 +966,6 @@ Proceedings, Hawaii International Conference on Sciences
 2004, p. 75-100 (ees2.geo.rpi.edu/people/bayly/brain.pdf). Bayly, M. B. 2005 Concept-matching in the brain depends on 
 
 serotonin and gamma-frequency shifts. Medical Hypotheses 65, 149-151 (ees2.geo.rpi.edu/people/bayly/concept.pdf). 
-
-Se 
 
 *Beckett, Samuel. 
 
@@ -1113,9 +985,7 @@ Calvin, W. H. and Ojemann, G. A. 1995 Conversation with Neil's
 
 Brain. Reading, Mass.: Addison-Wesley. 
 
-*Cather, Willa. Crick, F. 1994 The Astonishing Hypothesis. London: Macmillan. Damasio, A. R. 1994 Descartes' Error. New York: G. P. Putnam's 
-
-Sons. 
+*Cather, Willa. Crick, F. 1994 The Astonishing Hypothesis. London: Macmillan. Damasio, A. R. 1994 Descartes' Error. New York: G. P. Putnam's Sons. 
 
 Damasio, A. R. 2000 The Feeling of What Happens. New York: 
 
@@ -1217,11 +1087,11 @@ TY
 
 eur 
 
-* source of quotation not known. 
+\* source of quotation not known. 
 
 56 
 
-Index 
+## Index 
 
 Abstract concept 29, 31, 37, 41 air we breathe xv, 6, 34 alliteration xxxiv allusion xvi, 42 altruism 3,4 ambiguous object 15 animals xix, 38 
 
@@ -1531,7 +1401,7 @@ Xxxviii, 56 Wodehouse, P. G. 4, 56 writers, other 13-18 writers, previous xix
 
 TT 
 
-About the Author 
+## About the Author 
 
 When Brian Bayly was fifteen a teacher told him, “You have ideas that are different from other people's. In later life, don't feel awkward or unhappy about that.” It was a perceptive remark: in a life in science, Bayly has rarely worked at the frontier; his contributions have come from taking a fresh look far back at the basics of a field of study --- in mineralogy, thermodynamics and now the human brain. “Discovery consists of seeing what everybody has seen and thinking what nobody has thought." 
 

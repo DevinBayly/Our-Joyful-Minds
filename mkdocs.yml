@@ -2,7 +2,6 @@
 site_name: Our Joyful Minds
 theme: readthedocs
 repo_url: https://github.com/DevinBayly/LinkJoy-PIPA
-edit_uri: /root/docs/ 
 nav:
   - Our Joyful Minds : index.md
   - Prologue : Prologue.md

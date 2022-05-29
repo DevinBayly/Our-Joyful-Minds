@@ -1,0 +1,3 @@
+## Acknowledgments 
+
+It is a pleasure to share the following people for their help and interest: Gordon Galiza, John McCrone, Fred Previc, Ken Paller, Stanislas Dehaene, joras Langer, Guy Genin, Joshua Fost, Nicholas Humphrey, Zlata Phillips, Kate and Dave Murray, Lauren McElroy, Meredith Aldrich, Dunbar Moodie, John and Molly Dewey, Linda Valdez, Walter Auclair, Win and Marilyn Means and the members of my kind family. 

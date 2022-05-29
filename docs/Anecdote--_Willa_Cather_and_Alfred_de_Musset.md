@@ -1,0 +1,7 @@
+## Anecdote: Willa Cather and Alfred de Musset 
+
+Two journeys by Willa Cather stick in my mind. Quite early in her career she traveled from Nebraska to Chicago. She visited the Art Museum and wrote of the experience, including two separate remarks. On one page, she records that a certain painting filled her with pleasure; on a different page she records that a certain painting seemed to touch something within herself (as with Goethe; see Twig 13 in the Introduction). 
+
+A little later she visited Paris and the famous cemetery of Pere la Chaise. She was particularly struck by the grave of Alfred de Musset. He parted unhappily from George Sand (before she infuriated and inspired Chopin) and had other troubles as well. So when Willa Cather saw beside his grave an emaciated tree hanging grimly onto life, she mused that he would have enjoyed the resemblance between the tree's unhappy struggles and his own. 
+
+Do you see, she knows that people like de Musset get pleasure from a match. And she knows that some paintings match a feeling in herself, and that some paintings bring her joy. But she never says that a painting brought her joy because it linked to something within herself. Was she aware of the three-way set-up and simply never mentioned it (except in regard to de Musset)? How did she come so close, yet never note the effect in herself? 

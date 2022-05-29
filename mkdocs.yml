@@ -1,8 +1,10 @@
  
 site_name: Our Joyful Minds
+Home: _Our_Joyful_Minds.md
+About: About_the_Author.md
 theme: readthedocs
 nav:
-  -  Our Joyful Minds : _Our_Joyful_Minds.md
+  - Our Joyful Minds : _Our_Joyful_Minds.md
   - Prologue : Prologue.md
   - Introduction : Introduction.md
   - Some Quotations : Some_Quotations.md

@@ -2,7 +2,7 @@
 site_name: Our Joyful Minds
 theme: readthedocs
 nav:
-  - Home : _Our_Joyful_Minds.md
+  - Our Joyful Minds : index.md
   - Prologue : Prologue.md
   - Introduction : Introduction.md
   - Some Quotations : Some_Quotations.md

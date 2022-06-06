@@ -34,7 +34,8 @@ The useful fact there is that a brain will fit into a jar --- a somewhat large j
 
 The next task is to convey something of the brain's complexity. The cortex alone contains more than 10 billion neurons, and each neuron has hundreds of input fibers and hundreds more output fibers (see Figure 2). The output-fiber tips communicate by touching the input fibers of neighboring neurons (or sometimes neurons quite far off), so there are many routes by which an electrical disturbance can travel through the whole web or network. 
 
-**Figure 3 Components of a neuron, highly simplified.**
+![Figure 3 Components of a neuron, highly simplified.](assets/cells.svg)
+
 
 The many output fibers of one neuron may have junctions onto hundreds of different neighboring neurons. 
 

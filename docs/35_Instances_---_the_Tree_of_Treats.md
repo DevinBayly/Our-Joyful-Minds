@@ -1,4 +1,6 @@
-## 35 Instances --- the Tree of Treats 
+![35 Instances of Link Joy](assets/tree.png)
+
+## 35 Instances  
 
 Readers are invited to scan the following list and to look only at topics they are interested in. The purpose is to show that pleasure from items in the mind that match does indeed pervade our lives. As soon as readers are satisfied on this point they can skip the rest. 
 

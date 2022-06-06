@@ -1,29 +1,30 @@
  
 site_name: Our Joyful Minds
-theme: readthedocs
+theme: 
+  name: readthedocs
 repo_url: https://github.com/DevinBayly/LinkJoy-PIPA
 nav:
-  - Our Joyful Minds : index.md
-  - Prologue : Prologue.md
-  - Introduction : Introduction.md
-  - Some Quotations : Some_Quotations.md
-  - Previous Writers : Previous_Writers.md
-  - Anecdote-- Crick and Watson : Anecdote--_Crick_and_Watson.md
-  - 35 Instances --- the Tree of Treats : 35_Instances_---_the_Tree_of_Treats.md
-  - Anecdote-- Yasmin : Anecdote--_Yasmin.md
-  - Chapter 1 Does this matter to ME? : Chapter_1_Does_this_matter_to_ME?.md
-  - Anecdote-- Willa Cather and Alfred de Musset : Anecdote--_Willa_Cather_and_Alfred_de_Musset.md
-  - Chapter 2 How does this fit with mainstream cognitive science? : Chapter_2_How_does_this_fit_with_mainstream_cognitive_science?.md
-  - Anecdote-- Deire Gentner's tests : Anecdote--_Deire_Gentner's_tests.md
-  - Chapter 3 How might it work inside the brain? : Chapter_3_How_might_it_work_inside_the_brain?.md
-  - Anecdote-- soccer camp : Anecdote--_soccer_camp.md
-  - Chapter 4 Infants and language : Chapter_4_Infants_and_language.md
-  - Anecdote-- Wijdefjord : Anecdote--_Wijdefjord.md
-  - Chapter 5 Speculations : Chapter_5_Speculations.md
-  - Anecdote-- Marza and Anju : Anecdote--_Marza_and_Anju.md
-  - Chapter 6 Final chapter --- the take-home message : Chapter_6_Final_chapter_---_the_take-home_message.md
-  - Acknowledgments : Acknowledgments.md
-  - Personal history : Personal_history.md
-  - References : References.md
-  - Index : Index.md
-  - About the Author : About_the_Author.md
+  - " Our Joyful Minds" : "_Our_Joyful_Minds.md"
+  - "Prologue" : "Prologue.md"
+  - "Introduction" : "Introduction.md"
+  - "Some Quotations" : "Some_Quotations.md"
+  - "Previous Writers" : "Previous_Writers.md"
+  - "Anecdote: Crick and Watson" : "Anecdote:_Crick_and_Watson.md"
+  - "35 Instances --- the Tree of Treats" : "35_Instances_---_the_Tree_of_Treats.md"
+  - "Anecdote: Yasmin" : "Anecdote:_Yasmin.md"
+  - "Chapter 1 Does this matter to ME?" : "Chapter_1_Does_this_matter_to_ME?.md"
+  - "Anecdote: Willa Cather and Alfred de Musset" : "Anecdote:_Willa_Cather_and_Alfred_de_Musset.md"
+  - "Chapter 2 How does this fit with mainstream cognitive science?" : "Chapter_2_How_does_this_fit_with_mainstream_cognitive_science?.md"
+  - "Anecdote: Deire Gentner's tests" : "Anecdote:_Deire_Gentner's_tests.md"
+  - "Chapter 3 How might it work inside the brain?" : "Chapter_3_How_might_it_work_inside_the_brain?.md"
+  - "Anecdote: soccer camp" : "Anecdote:_soccer_camp.md"
+  - "Chapter 4 Infants and language" : "Chapter_4_Infants_and_language.md"
+  - "Anecdote: Wijdefjord" : "Anecdote:_Wijdefjord.md"
+  - "Chapter 5 Speculations" : "Chapter_5_Speculations.md"
+  - "Anecdote: Marza and Anju" : "Anecdote:_Marza_and_Anju.md"
+  - "Chapter 6 Final chapter --- the take-home message" : "Chapter_6_Final_chapter_---_the_take-home_message.md"
+  - "Acknowledgments" : "Acknowledgments.md"
+  - "Personal history" : "Personal_history.md"
+  - "References" : "References.md"
+  - "Index" : "Index.md"
+  - "About the Author" : "About_the_Author.md"

@@ -3,5 +3,3 @@
 Here's my first brush with fame. In 1953 Crick and Watson were struggling to find the structure of DNA. The breakthrough came during morning hours so that lunch that same day was the first time the two appeared in public with their excitement seething under their belts. The Eagle tavern was the locale for the first disclosure and I was there (maybe). At that time I was working in a laboratory across the street and went to the Eagle on some days but not every day, and of course cannot remember: was I there on the historic day or not? Did fame touch me with a wing-tip feather? 
 
 (The morning event, as many readers will recall, was that Watson was engaged with four cardboard cut-outs representing the components C, G, A and T. Although all four shapes were in themselves different, Watson noticed that if he joined the pair Cand G into a combination, the pair A and T could make a combination of almost the same shape. Separately, all were different but properly paired, they formed combinations that matched. Watson's moment of joy from the match had consequences that are still unfolding today.) 
-
-**Figure 1 Tree of Treats image**

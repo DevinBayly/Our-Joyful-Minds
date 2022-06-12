@@ -1,4 +1,4 @@
-## Anecdote: Deire Gentner's tests 
+## Anecdote: Deidre Gentner's tests 
 
 The fact that children enjoy making discoveries is sufficiently well known. To harp on their mini-Eureka moments would be rather banal. The following example is noteworthy only for the unusual context in which it occurred. 
 

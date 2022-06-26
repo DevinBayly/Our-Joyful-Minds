@@ -1,5 +1,5 @@
 ## Introduction 
-Let me begin by telling the main idea: Pleasure arises in your brain 
+Let me begin by telling the main idea: Pleasure arises in your brain. 
 It may begin with a taste on your tongue or a sound in your ear, but it is inside your brain that the pleasure is sensed. To check this, suppose you are asleep when I put a drop of sweet fruit juice on your tongue. Unless the action wakes you, you feel no pleasure --- to sense pleasure you need a conscious brain. 
 And the pleasure-sensor can be set off by two things matching. 
 An example is rhyme: “The cat in a hat” is a livelier title than “The cat on a rug." And a pair of shoes that match give an effect that we don't get from two odd shoes --- an effect that, though small, is real. 

@@ -2,8 +2,6 @@
 
 We are close to the end and what do I expect to be remembered from all this? Let's return to the question that opened Chapter 1: “I am not a psychologist or philosopher so why does this matter TO ME?” From what has gone before, let me pick out a few pieces and offer an answer in four parts. 
 
-in fouras gone be plaidosonte questi 
-
 First, the raindrop analogy. Anyone will agree that rainstorms matter: sometimes they cause destructive floods but more often they foster growth (and when rain follows a dry spell, the smell of freshness is one of nature's treats). But what is a rainstorm? It is an accumulation of droplets. Does a rain droplet matter to me? NO, it doesn't --- but an accumulation of uncountable droplets freshens my life. Most single link-joy events are non-essential; we could survive missing any one. But a day when we do not feel their cumulative effect is a dreary day indeed. Anyone who thinks that tiny link-joys are not important should compare them with raindrops. 
 
 Second, the shouting-murmuring analogy. How quiet can a sound be and still be detectable? A few quiet sounds are: leaves rustling, one sock or stocking rubbing against another, or the noise from shaking a handkerchief. Two people talking make much more noise and yet are nowhere near the loudest sound one can tolerate. The range of sounds is enormous and goes downward to tiny levels, yet the entire range is handled by a single sensory system. We can imagine then that with link-joy as well, the range from conspicuous down to imperceptible is all handled by a single brain-system. 

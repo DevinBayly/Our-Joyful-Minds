@@ -7,8 +7,6 @@
 
 My program here has been to start from what is incontrovertible and move only cautiously to what is more doubtful. 
 
-**TODO double check this is correct layout**
-
 * People do jigsaw puzzles; 
   * People enjoy doing jigsaw puzzles; 
     * What they enjoy mostly is the good fit of one piece with the next.

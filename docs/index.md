@@ -1,4 +1,4 @@
 ### Our Joyful Minds 
 #### Where does satisfaction come from? 
-*"nothing inspirational--- just down-to-earth sense"*
+*"nothing inspirational&mdash; just down-to-earth sense"*
 

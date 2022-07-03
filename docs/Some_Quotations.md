@@ -13,8 +13,8 @@ Under every possible disadvantage of ignorance, inexperience and lack of proper 
 
 There are many ways in which the thing I am trying in vain to say may be tried in vain to be said. 
 
-The ill and unfit choice of words woefully obstructs the understanding. 
+The ill and unfit choice of words wonderfully obstructs the understanding. 
 
 Push on, and faith will catch up with you. 
 
-The sources are, in order, Ludwig Wittgenstein, Albert Szent-Gyorgyi, Peter Medawar, Galileo Galilei, Melvin Konner, Sheila Kaye-Smith, Samuel Beckett and Francis Bacon. For details, see the References. 
+The sources are, in order, Ludwig Wittgenstein, Albert Szent-Gyorgyi, Peter Medawar, Galileo Galilei, Melvin Konner, Sheila Kaye-Smith, Samuel Beckett, Francis Bacon, and Jean le Rond d'Alembert.

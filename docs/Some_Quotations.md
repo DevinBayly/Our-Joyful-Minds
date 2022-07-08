@@ -18,3 +18,5 @@ The ill and unfit choice of words wonderfully obstructs the understanding.
 Push on, and faith will catch up with you. 
 
 The sources are, in order, Ludwig Wittgenstein, Albert Szent-Gyorgyi, Peter Medawar, Galileo Galilei, Melvin Konner, Sheila Kaye-Smith, Samuel Beckett, Francis Bacon, and Jean le Rond d'Alembert.
+
+[References](References.md)

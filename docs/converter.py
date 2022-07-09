@@ -1,6 +1,6 @@
 import os
 os.getcwd()
-text = open("book.md","r").read()
+text = open("all.md","r").read()
 
 chunks = text.split("\n## ")
 toc =[]
@@ -14,15 +14,15 @@ for c in chunks:
         phile.write(f"## {full}")
     toc.append(f"\"{chap_title}\" : \"{fname}.md\"")
 
-with open("../mkdocs.yml","w") as philw:
-    philw.write(""" 
-site_name: Our Joyful Minds
-theme: 
-  name: readthedocs
-  logo: assets/logo.png
-  favicon: assets/logo.png
-repo_url: https://github.com/DevinBayly/LinkJoy-PIPA
-nav:
-  - """)
-    philw.write("\n  - ".join(toc))
+# with open("../mkdocs.yml","w") as philw:
+#     philw.write(""" 
+# site_name: Our Joyful Minds
+# theme: 
+#   name: readthedocs
+#   logo: assets/logo.png
+#   favicon: assets/logo.png
+# repo_url: https://github.com/DevinBayly/LinkJoy-PIPA
+# nav:
+#   - """)
+#     philw.write("\n  - ".join(toc))
 

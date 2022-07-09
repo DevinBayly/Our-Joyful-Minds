@@ -8,7 +8,7 @@ Bayly, M. B. 2005 The brain's internal reward from matching.  Proceedings, Hawai
 
 Bayly, M. B. 2005 Concept-matching in the brain depends on serotonin and gamma-frequency shifts. Medical Hypotheses 65, 149-151 (ees2.geo.rpi.edu/people/bayly/concept.pdf). 
 
-*Beckett, Samuel. 
+Beckett, & Duthuit, G. (1965). Proust. J. Calder.
 
 Besson, M., Faita, F. and Requin, J. 1994 Brain waves associated with musical incongruities differ for musicians and non musicians. Neuroscience Letters 168, 101-105.
 

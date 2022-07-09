@@ -6,7 +6,6 @@ But Tuesday brought a new challenge. On waking, I had in mind the course of acti
 
 Situations like the one just described lie behind such everyday phrases as: 
 
-“I didn't know enough to figure out all the consequences; I had to do just what *felt* right at the time ..."
+"I didn't know enough to figure out all the consequences; I had to do just what *felt* right at the time ..."
 
 If an action feels right, that is because it matches some idea or belief already in one's mind, and one can see here also how link-joy events accumulate. A long-range purpose can only be pursued through short range decisions, and most of these are made by matching. If, over and over, one does what matches or feels right, there is a good chance that one's long-range goal will be met. The poet Schiller wrote that joy drives the wheels of the great clock of the world, and in that image one can conceive a big wheel driven by a whole train of little wheels. Schiller was right: link-joy drives the little wheels and, cumulatively, long-range consequences emerge. 
-

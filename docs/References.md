@@ -1,8 +1,8 @@
 ## References 
 
-Aquinas, Thomas 1274 Suinma Theologica --- quoted in Dictionary of Foreign Quotations (R. and M. Collison eds.) New York: Facts on File, Inc. 1980, p. 18. 
+Aquinas, Thomas 1274 Summa Theologica &mdash; quoted in Dictionary of Foreign Quotations (R. and M. Collison eds.) New York: Facts on File, Inc. 1980, p. 18. 
 
-Bacon, Francis 1620 Novurn Organum --- quoted in The Harvest of a Quiet Eye (A. L. Mackay ed.) Bristol: Institute of Physics 1977. 
+Bacon, Francis 1620 Novum Organum &mdash; quoted in The Harvest of a Quiet Eye (A. L. Mackay ed.) Bristol: Institute of Physics 1977. 
 
 Bayly, M. B. 2005 The brain's internal reward from matching.  Proceedings, Hawaii International Conference on Sciences 2004, p. 75-100 (ees2.geo.rpi.edu/people/bayly/brain.pdf).
 
@@ -42,7 +42,7 @@ Galilei, Galileo 1613 Letters on Sunspots. Rome: Lincean Academy.
 
 Gentner, D., Ratterman, M. J., Markman, A. and Kotovsky, L. 1995 Two forces in the development of relational similarity. In Developing Cognitive Competence (T. J. Simon and G. S. Halford eds.) Hillsdale, N. J.: Lawrence Erlbaum Associates. 
 
-Goethe, J. W. 1771 --- quoted in The Origins of Creativity (K. H.  Pfenninger and V. Shubik eds.) New York: Oxford University Press, 2001, p. 231.
+Goethe, J. W. 1771 &mdash; quoted in The Origins of Creativity (K. H.  Pfenninger and V. Shubik eds.) New York: Oxford University Press, 2001, p. 231.
 
 Goodall, J. 1990 Through a Window. London: Weidenfeld & Nicolson.
 
@@ -60,11 +60,11 @@ James, W. 1892 Psychology. New York: Henry Holt and Co., p. 369.
 
 Keller, H. 1903 The Story of My Life. Classic Textbooks. 
 
-Khayyam, Omar 1100 (ca.) ....it (quatrains 12, 27 and 71 in the 4th edition of Edy, Fitzgerald's cranslation). 
+Khayyam, Omar 1100 (ca.) Rubaiyat (quatrains 12, 27 and 71 in the 4th edition of Edward Fitzgerald's translation). 
 
-Koestler, A. 1964 The Act of rounion. London: Macmillan.
+Koestler, A. 1964 The Act of Creation. London: Macmillan.
 
-Konner, M. 2002 The Tanck Wing (2nd edition). New York: Henry Holt and Co.
+Konner, M. 2002 The Tangled Wing (2nd edition). New York: Henry Holt and Co.
 
 Langer, J., Schlesinger, M., Spinozzi, G. and Natale, F. 1998 Developing classification in action: I. human infants. Human Evolution 13, 107-124. (see also Spinozzi, G.)
 
@@ -78,7 +78,7 @@ McNeill, W. H. 1995 Keeping Together in Time. Cambridge, Mass.: Harvard Universi
 
 Mecklinger, A., von Zerssen, C., Opitz, B. and von Cramon, D. Y.  2000 Event-related fMRI dissociates recollection-based and illusory recognition memory. Journal of Cognitive Neuroscience, Supplement S, p. 139. 
 
-Medawar, P. --- quoted in Phantoms in the Brain by V.S. Ramachandran and S. Blakeslee. New York: William Morrow and Co., 1998. 
+Medawar, P. &mdash; quoted in Phantoms in the Brain by V.S. Ramachandran and S. Blakeslee. New York: William Morrow and Co., 1998. 
 
 Pasternak, B. 1958 Doctor Zhivago. London: Wm. Collins Sons & Co. 
 
@@ -96,7 +96,7 @@ Shakespeare, William 1623 Cymbeline, act 4, scene 2.
 
 Spinozzi, G., Natale, F., Langer, J. and Schlesinger, M. 1998 Developing classification in action: II. young chimpanzees (Pan troglodytes). Human Evolution 13, 125-139.
 
-Szent-Gyorgyi, A. --- quoted in The Scientist Speculates (I. J. Good ed.) New York: Capricorn Books, 1965, p.15.
+Szent-Gyorgyi, A. &mdash; quoted in The Scientist Speculates (I. J. Good ed.) New York: Capricorn Books, 1965, p.15.
 
 Watson, J. D. 1968 The Double Helix. New York: Atheneum, p. 123. Wittgenstein, L. 1953 Philosophical Investigations, Remark #129.  Oxford: Blackwell Publishing Ltd.
 

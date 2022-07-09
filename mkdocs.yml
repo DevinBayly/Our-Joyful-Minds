@@ -2,7 +2,7 @@
 site_name: Our Joyful Minds
 theme: 
   name: readthedocs
-  #custom_dir: overrides
+  custom_dir: overrides
   logo: assets/logo_w_text.png
 repo_url: https://github.com/DevinBayly/LinkJoy-PIPA
 extra_css:

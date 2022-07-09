@@ -23,15 +23,27 @@
     - Postscript on choice of words
         - [Anecdote: Willa Cather and Alfred de Musset](Anecdote_Willa_Cather_and_Alfred_de_Musset.md)
 - [Chapter 2 How does this fit with mainstream cognitive science?](Chapter_2_How_does_this_fit_with_mainstream_cognitive_science.md)
-    - [Anecdote: Deidre Gentner's tests](Anecdote_Deidre_Gentner's_tests.md)
+    - Generalists
+    - Inward and outward signals
+    - Summary
+        - [Anecdote: Deidre Gentner's tests](Anecdote_Deidre_Gentner's_tests.md)
 - [Chapter 3 How might it work inside the brain?](Chapter_3_How_might_it_work_inside_the_brain.md)
-    - [Anecdote: Soccer Camp](Anecdote_soccer_camp.md)
+    - Structure of your brain
+    - How does thinking work? 
+    - Summary
+        - [Anecdote: Soccer Camp](Anecdote_soccer_camp.md)
 - [Chapter 4 Infants and language](Chapter_4_Infants_and_language.md)
-    - [Anecdote: Wijdefjord](Anecdote_Wijdefjord.md)
+    - Infants before speech
+    - Chimpanzees
+        - [Anecdote: Wijdefjord](Anecdote_Wijdefjord.md)
 - [Chapter 5 Speculations](Chapter_5_Speculations.md)
-    - [Anecdote: Marza and Anju](Anecdote_Marza_and_Anju.md)
+    - What makes humans so special?
+    - A link to religion
+    - Consciousness
+    - Ideals and "higher things"
+        - [Anecdote: Marza and Anju](Anecdote_Marza_and_Anju.md)
 - [Chapter 6 Final chapter --- the take-home message](Chapter_6_Final_chapter_---_the_take-home_message.md)
-    - [Acknowledgments](Acknowledgments.md)
+- [Acknowledgments](Acknowledgments.md)
 - [Personal history](Personal_history.md)
 - [About the Author](About_the_Author.md)
 - [References](References.md)
